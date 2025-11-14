@@ -4,10 +4,57 @@ title: ./HoleToAnotherUniverse/linux
 mermaid: true
 ---
 
-
-
-: [Mission Objectives](https://www.google.com/logos/doodles/2025/fourth-of-july-2025-6753651837110704-2x.png) NASA's Mars Reconnaissance Orbiter searches for evidence that water persisted on the surface of Mars for a long period of time. [ReadMore](https://science.nasa.gov/mission/mars-reconnaissance-orbiter/) 
+# Currently Compling  `jekyll.version`  {{ jekyll.version }}
+## [Mars Reconnaissance Orbiter](https://eyes.nasa.gov/apps/solar-system/#/sc_mars_reconnaissance_orbiter) [(MRO 31-468)](https://planetarydata.jpl.nasa.gov/img/data/mro/marci/mrom_0001/document/mro_arch_plan.pdf)  
+Project [pdf](https://planetarydata.jpl.nasa.gov/img/data/mro/marci/mrom_0001/document/mro_arch_plan.pdf)
+@BlackgirlsCode i wanna beg @normani on @github to never reply @nasa-pds --- 
+`EXCERPTFROM` : [MRO 31-468 @nasa-jpl @TheSpaceDevs @BlueOrigin](https://planetarydata.jpl.nasa.gov/img/data/mro/marci/mrom_0001/document/mro_arch_plan.pdf)
+Assuming that the MRO Primary Science Mission extends for 2 Earth years and is supported by
+two nominally 8 hour X Band 34 m DSN passes per day and three 70m passes per week, the
+spacecraft is capable of returning a total of up to 34 terabits (Tbits) of data, transmitting at rates
+which vary throughout the mission from 20 to 100 and back to 20 gigabits (Gbits) of data per
+day. The lowest data rates occur at the start of the Primary Science Mission when the EarthMars range is greatest, and the highest data rates occur when the range is small, a period
+extending from late October 2007 to June 2008. Table 2 shows telemetry data volumes allocated
+to each instrument, based on full mission success criteria of 26 Tb data downlinked for all
+instruments combined. It is expected that 34.5 Tb as opposed to 26 Tb of data will be
+downlinked. Additional data may be transmitted using X Band 70 m DSN coverage, particularly
+early in the mission when data rates are otherwise low. MRO also carries a Ka Band
+demonstration package, which can be used on additional DSN passes to augment the nominal
+science data return. Additional data would also be acquired during any extended missions. Table
+3 shows estimated science product volumes for several data return cases.
+The generation of EDRs and RDRs from telemetry data typically results in a data volume
+expansion of at least an order of magnitude. Thus, archiving MRO data will be challenging
+indeed since at least several hundred terabits of data will be produced 
+[Mission Objectives](https://www.google.com/logos/doodles/2025/fourth-of-july-2025-6753651837110704-2x.png) NASA's Mars Reconnaissance Orbiter searches for evidence that water persisted on the surface of Mars for a long period of time. [ReadMore](https://science.nasa.gov/mission/mars-reconnaissance-orbiter/) 
 Rashard Kelly Nas[a](https://www.cia.gov/careers/)Jpl MRO [JUNO](https://naif.jpl.nasa.gov/pub/naif/pds/data/jno-j_e_ss-spice-6-v1.0/jnosp_1000/catalog/mission.cat) [+](https://naif.jpl.nasa.gov/pub/naif/pds/data/jno-j_e_ss-spice-6-v1.0/jnosp_1000/catalog/mission.cat) iS[S](https://www.usgovernmentmanual.gov/Agency?EntityId=VSLfQ4vlJ2o=&ParentEId=+klubNxgV0o=&EType=jY3M4CTKVHY=) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ThakaRashard/rashardmro.git/HEAD) ![Build Status](https://github.com/jekyll/jekyll/workflows/Continuous%20Integration/badge.svg) ![Gem Version](https://img.shields.io/gem/v/jekyll.svg) [emit](https://earth.jpl.nasa.gov/emit/) [genesisReturn](https://ssd.jpl.nasa.gov/api/horizons.api?format=text&COMMAND=%27-47900%27&OBJ_DATA=%27YES%27&MAKE_EPHEM=%27YES%27&EPHEM_TYPE=%27OBSERVER%27&CENTER=%27500@399%27&START_TIME=%272006-01-01%27&STOP_TIME=%272006-01-20%27&STEP_SIZE=%271%20d%27&QUANTITIES=%271,9,20,23,24,29%27)
+<img  alt="image" src="https://github.com/user-attachments/assets/c0ecd138-5a3e-4396-a4d1-dcc93c262b1e" />
+
+hi @nasa-jpl @nasa-develp @nasa @whitehouse its a checking @blackgirlscode
+[<img src="https://web.archive.org/web/20060104192812im_/http://mars.jpl.nasa.gov/mro/images/mro_banner.jpg">]( https://web.archive.org/web/20060108092026/http://mars.jpl.nasa.gov/mro/)
+### [Mars Reconnaissance Orbiter](https://hirise-pds.lpl.arizona.edu/PDS/CATALOG/MISSION.CAT) : [Mission Objectives](https://www.google.com/logos/doodles/2025/fourth-of-july-2025-6753651837110704-2x.png) NASA's Mars Reconnaissance Orbiter searches for evidence that water persisted on the surface of Mars for a long period of time. [ReadMore](https://science.nasa.gov/mission/mars-reconnaissance-orbiter/) 
+
+<img alt="image" src="https://github.com/user-attachments/assets/bcc4dd7b-4e9b-4a8a-b930-6d8c8e7df4f0" />
+
+
+<object class="scroller" data="https://eyes.nasa.gov/apps/solar-system/#/sc_mars_reconnaissance_orbiter" type="text/html"></object>
+
+# AnimalFarm 1954
+
+
+[imdb](https://www.imdb.com/title/tt0047834/) : [Wiki](https://en.wikipedia.org/wiki/Animal_Farm_(1954_film)) : [Archive](https://archive.org/details/animalfarm1954_20190809) : [:yt:](https://www.youtube.com/watch?v=CKJvwWyq2z0) : [🛒](https://www.amazon.com/Animal-Farm-Gordon-Heath/dp/B0002ZYDUG) : [@reddit](https://www.reddit.com/r/classicfilms/comments/1gjzpjd/animal_farm_1954/) : [🍅](https://www.rottentomatoes.com/m/animal_farm) 
+
+<video controls  poster="https://upload.wikimedia.org/wikipedia/commons/5/5b/Animal_Farm_strip_cartoon.jpg">>
+
+    
+  <source src="https://dn721906.ca.archive.org/0/items/animalfarm1954_20190809/Animal%20Farm%201954.mp4" type="video/mp4" />
+  <source src="https://archive.org/download/animalfarm1954_20190809/Animal%20Farm%201954.mp4" type="video/mp4" />
+
+  Download the
+
+  <a href="https://archive.org/download/animalfarm1954_20190809/Animal%20Farm%201954.mp4">MP4</a>
+  video.
+</video>
+
 
 <div class="box">
 
@@ -20,20 +67,121 @@ Rashard Kelly Nas[a](https://www.cia.gov/careers/)Jpl MRO [JUNO](https://naif.jp
    
  </div> 
 
-# Currently Compiling 
-`jekyll.version`  {{ jekyll.version }}
 
-# Currently Compling g_e, [m/s^2](https://eyes.nasa.gov/apps/dsn-now/dsn.html)
+## California_Linux[:](https://www.iso.org/iso-8601-date-and-time-format.html) 
+<iframe src="https://archive.org/embed/commitmentmaintenance" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe> 
+### Books
 
+[How to compete for NASA contracts @blackgirlscode](https://ntrs.nasa.gov/api/citations/19930021455/downloads/19930021455.pdf)
+
+[Uplink-Downlink A History of the Deep Space Network 1957–1997](https://www.nasa.gov/wp-content/uploads/2023/04/sp-4227.pdf)
+
+[Deep Space Telecommunications Systems Engineering 1982](https://ntrs.nasa.gov/api/citations/19830013955/downloads/19830013955.pdf)
+
+[Read You Loud and Clear!](https://ntrs.nasa.gov/api/citations/20080020389/downloads/20080020389.pdf)
+The Story of NASA's Spaceflight Tracking and Data Network
+
+[Satellite Data Explorer](https://csdap.earthdata.nasa.gov/) 
+
+
+@nasa-pds @podaac @cityoflosangeles @stateofcalifornia 
+date:   2024-11-18 22:51:06 -0800
+<img alt="image" src="https://github.com/user-attachments/assets/a66514a7-e84e-4593-a821-2bb5870a0ebe" />
 ![superSpikeVball @blackgirlscode @normani](https://ia801207.us.archive.org/7/items/SuperSpikeVBallNESVJFRACart/Super%20Spike%20V%27Ball%20-%20NES-VJ-FRA%20-%20Cart%20top.jpg)
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Intel_pentium_iii_xeon_800_sl4h8_top.png"  alt="GO" />
 
+![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
+
+
+# JPL Open Source Rover Project
+[DOCS](https://open-source-rover.readthedocs.io/en/latest/) / [GiT](https://github.com/nasa-jpl/open-source-rover)
+<object data="https://jplopensourcerover.com/#!/home" width="100%" height=400px ></object>
+
+# Mars Reconnaissance Orbiter (MRO)
+Project [pdf](https://planetarydata.jpl.nasa.gov/img/data/mro/marci/mrom_0001/document/mro_arch_plan.pdf)
+@BlackgirlsCode i wanna beg @normani on @github to never reply @nasa-pds ---
+
+`EXCERPTFROM` : [MRO 31-468 @nasa-jpl @TheSpaceDevs @BlueOrigin](https://planetarydata.jpl.nasa.gov/img/data/mro/marci/mrom_0001/document/mro_arch_plan.pdf)
+Assuming that the MRO Primary Science Mission extends for 2 Earth years and is supported by
+two nominally 8 hour X Band 34 m DSN passes per day and three 70m passes per week, the
+spacecraft is capable of returning a total of up to 34 terabits (Tbits) of data, transmitting at rates
+which vary throughout the mission from 20 to 100 and back to 20 gigabits (Gbits) of data per
+day. The lowest data rates occur at the start of the Primary Science Mission when the EarthMars range is greatest, and the highest data rates occur when the range is small, a period
+extending from late October 2007 to June 2008. Table 2 shows telemetry data volumes allocated
+to each instrument, based on full mission success criteria of 26 Tb data downlinked for all
+instruments combined. It is expected that 34.5 Tb as opposed to 26 Tb of data will be
+downlinked. Additional data may be transmitted using X Band 70 m DSN coverage, particularly
+early in the mission when data rates are otherwise low. MRO also carries a Ka Band
+demonstration package, which can be used on additional DSN passes to augment the nominal
+science data return. Additional data would also be acquired during any extended missions. Table
+3 shows estimated science product volumes for several data return cases.
+The generation of EDRs and RDRs from telemetry data typically results in a data volume
+expansion of at least an order of magnitude. Thus, archiving MRO data will be challenging
+indeed since at least several hundred terabits of data will be produ
+<img  alt="image" src="https://github.com/user-attachments/assets/c0ecd138-5a3e-4396-a4d1-dcc93c262b1e" />
+
+<a href="https://rashardmro.tumblr.com/">Rashard[M_R_O/JPL/NASA]</a>
+<a href="https://planetarydata.jpl.nasa.gov/img/data/mro/marci/mrom_0001/document/mro_arch_plan.pdf?fbclid=IwY2xjawOEesZleHRuA2FlbQIxMABicmlkETBGS215bEdpRUdVVlpsRG1Uc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHgRBZrVfdRrWWVSmdribYRFMg9s4d7JExKUkNRu4DKLvkpCFmPk4GVnvEJ72_aem_RMmZNpd5dlPYz0O71Ex9UA">Mars Reconnaissance Orbiter (MRO) Project</a>
+last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}
+
+@blueorigin @blackgirlscode @nasa-pds @cityoflosangeles @LACMTA hi 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sT4Hr-Il30?si=7w9ShB59sgRyL98q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+
+@usgs [Index of VIP01.004:](https://e4ftl01.cr.usgs.gov/MEASURES/VIP01.004/), [BadgeNotes](https://media.defcon.org/DEF%20CON%2033/DEF%20CON%2033%20video%20and%20slides/DEF%20CON%2033%20-%20Making%20the%20DEF%20CON%2033%20Badge%20-%20Mar.mp4?fbclid=IwY2xjawOAtLJleHRuA2FlbQIxMABicmlkETFMeUFwNVFDY3RBTTJralBGc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHm7z55Iz2x41YkoLzAItSlR4-Mu7Vys5bg9CYLGdM19K90jcocMoUEH4nkhU_aem_jciDbMwVJEFHdDy3VSZq7Q) [l8tr @blackgirlscode @brandynorwood @normani](https://media.defcon.org/DEF%20CON%2032/DEF%20CON%2032%20video%20and%20slides/DEF%20CON%2032%20-%20A%20Treasure%20Trove%20of%20Failures%20-%20What%20History%E2%80%99s%20Greatest%20Heist%20Can%20Teach%20Us%20About%20Defense%20In%20Depth%20-%20Pete%20Stegemeyer.mp4) @
+
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fblueorigin%2Fposts%2Fpfbid02egBKgBbkGdfJXSmCN2knD6QcqXwQAtTn6PmXXt7rz4VUQ4e2uDGPk3XGeBcA8wsl&show_text=true&width=500" width="500" height="225" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+<img  alt="image" src="https://github.com/user-attachments/assets/62f5acd5-245f-4fd1-a0ed-6cc0446be7de" />
+
+![https://science.nasa.gov/mission/mars-2020-perseverance/ingenuity-mars-helicopter/](https://www.google.com/logos/fnbx/ingenuity/heli_dark.gif)
+
+![image](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02QS8KX7p6dFSadSA5B1grimiQ9wth4UUbkkgip6GcDrddMWuBD7ZpVo9nepsZUzzUl%26id%3D100084464911565&show_text=true&width=500" width="500" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02Tw3GCukTNa6uTKobKTFR6QBG173Fx38YnYRtVoGBTesdCzkiKbF1L6Zy3V25sbVUl%26id%3D100084464911565&show_text=true&width=500" width="500" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}
+[Experiance Insight](https://eyes.nasa.gov/apps/experience-insight/InSight.html) 
+
+
+
+```
+New Glenn's second mission will launch from Launch Complex 36 at Cape Canaveral Space Force Station and will send NASA’s ESCAPADE twin spacecraft to Mars. This launch will support ESCAPADE’s science objectives as the twin spacecraft progress on their journey to the Red Planet.
+```
+[ORigin @ucberkeley](https://escapade.ssl.berkeley.edu/)
+[READMORE @ucberkeley @BlueOrigin](https://www.blueorigin.com/missions/ng-2)
+![view](https://www.blueorigin.com/_next/image?url=https%3A%2F%2Fd1o72l87sylvqg.cloudfront.net%2Fredstone%2FMissions_NG-2-Trajectory.jpg&w=1920&q=75)
+![https://upload.wikimedia.org/wikipedia/commons/7/75/EscaPADE_logo.png @blueorgin](https://upload.wikimedia.org/wikipedia/commons/7/75/EscaPADE_logo.png)
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0zz2PWKyzYnShWa6ZkMfHhp9mcuBHxf2PAMDSE9FsxCyG8hdz6jgdHjAa2WC6f2j9l%26id%3D100084464911565&show_text=true&width=500" width="500" height="779" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+[SolidSteel - DK 785 @blackgirlscode](https://soundcloud.com/theclassicmixcdseries/dj-food-dk-now-listen?fbclid=IwY2xjawN_StlleHRuA2FlbQIxMABicmlkETFGZ3pPWUlkV1luaDJqSDZWc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHj8ZEDQAPSAbggJI_F2HJHmu48pDIzaqlWUO5b-n8qfo5wztTNpbEtMFHaX-_aem_pZ4dss4346GRs81r7Q8PxA)
 
 ### Books
 
 [How to compete for NASA contracts @blackgirlscode](https://ntrs.nasa.gov/api/citations/19930021455/downloads/19930021455.pdf) [Uplink-Downlink A History of the Deep Space Network 1957–1997](https://www.nasa.gov/wp-content/uploads/2023/04/sp-4227.pdf) [Deep Space Telecommunications Systems Engineering 1982](https://ntrs.nasa.gov/api/citations/19830013955/downloads/19830013955.pdf) [Read You Loud and Clear!](https://ntrs.nasa.gov/api/citations/20080020389/downloads/20080020389.pdf)
 The Story of NASA's Spaceflight Tracking and Data Network [Satellite Data Explorer](https://csdap.earthdata.nasa.gov/) [@NASA Continuity of Appropriations Plan PDF](https://www.nasa.gov/wp-content/uploads/2025/09/nasa-continuity-of-appropriations-plan-final-9-29-2025.pdf?emrc=cd4554) :: [@whitehouse @NASA [Appropriations and Authorizations: At a Glance](https://www.congress.gov/crs-product/R43419) [@blackgirlscode](https://www.facebook.com/BlackGirlsCodeOrg/) [@normani](https://www.tiktok.com/@normani?lang=en) [@commercegov](https://www.usa.gov/agencies/u-s-department-of-commerce)
+
+[https://id.nasa.gov](https://id.nasa.gov)
+[https://www.usgs.gov/news/national-news-release/usgs-unveils-new-national-geologic-map](https://www.usgs.gov/news/national-news-release/usgs-unveils-new-national-geologic-map)
+
+[ReeferMAdness](https://www.youtube.com/watch?v=8kg0sK-dY98) [TobaccoReserch](https://tobacco.stanford.edu/marijuanas/reefer-madness/)
+[museum](https://hashmuseum.com/en/collection/reefer-madness/)
+[imdb](https://www.imdb.com/title/tt0028346/) [🍅](https://www.rottentomatoes.com/m/reefer_madness) [ThEEEAccaaaDUMEee](https://www.academymuseum.org/en/programs/detail/reefer-madness-0196127e-aec4-7c86-51a0-505f82a319b8)
+
+Space Station Freedom interior resources [clickhere @TheSpaceDevs](https://orbiterspaceport.blogspot.com/2011/07/space-station-freedom-interior.html)
+
+# MEN ENCOUNTER MARS (1965)
+@CityOfLosAngeles @StateofCalifornia
+@nasa-pds @emit-sds
+[WATCH youtu.be/r7D7ZNp8lIY?si=kw2PPV5FRiFzc4hF](https://youtu.be/r7D7ZNp8lIY?si=kw2PPV5FRiFzc4hF) / [Orbiter Spaceport @nasa-jpl @emit-sds](https://orbiterspaceport.blogspot.com/2020/05/men-encounter-mars-1965-mariner-4-first.html?m=1) / [MEN ENCOUNTER MARS (1965) - Mariner 4, first Mars flyby & photos ](https://www.youtube.com/watch?v=RKVzepl-2zY) [OR](https://aws.amazon.com/compare/the-difference-between-sql-and-mysql/) [WATCH youtu.be/r7D7ZNp8lIY?si=kw2PPV5FRiFzc4hF](https://youtu.be/r7D7ZNp8lIY?si=kw2PPV5FRiFzc4hF)
+
+
 
 <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/t:AbU91On7Ll5V-GrorJ9LZA/69186429602/v2" data-did="fc7c20fab03a0dd2c5f6f630bf705e05b9ecc018"  ><a href="https://www.tumblr.com/podaac/69186429602/our-ocean-circulation-at-work-as-shown-by">https://www.tumblr.com/podaac/69186429602/our-ocean-circulation-at-work-as-shown-by</a></div><script async src="https://assets.tumblr.com/post.js?_v=8b39daeb280af0fb41fe0827257f89f6"></script>
 

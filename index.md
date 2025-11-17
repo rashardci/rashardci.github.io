@@ -5,6 +5,132 @@ mermaid: true
 ---
 
 # Currently Compling  `jekyll.version`  {{ jekyll.version }}
+
+
+: [Mission Objectives](https://www.google.com/logos/doodles/2025/fourth-of-july-2025-6753651837110704-2x.png) NASA's Mars Reconnaissance Orbiter searches for evidence that water persisted on the surface of Mars for a long period of time. [ReadMore](https://science.nasa.gov/mission/mars-reconnaissance-orbiter/) 
+Rashard Kelly Nas[a](https://www.cia.gov/careers/)Jpl MRO [JUNO](https://naif.jpl.nasa.gov/pub/naif/pds/data/jno-j_e_ss-spice-6-v1.0/jnosp_1000/catalog/mission.cat) [+](https://naif.jpl.nasa.gov/pub/naif/pds/data/jno-j_e_ss-spice-6-v1.0/jnosp_1000/catalog/mission.cat) iS[S](https://www.usgovernmentmanual.gov/Agency?EntityId=VSLfQ4vlJ2o=&ParentEId=+klubNxgV0o=&EType=jY3M4CTKVHY=) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ThakaRashard/rashardmro.git/HEAD) ![Build Status](https://github.com/jekyll/jekyll/workflows/Continuous%20Integration/badge.svg) ![Gem Version](https://img.shields.io/gem/v/jekyll.svg) [emit](https://earth.jpl.nasa.gov/emit/) [genesisReturn](https://ssd.jpl.nasa.gov/api/horizons.api?format=text&COMMAND=%27-47900%27&OBJ_DATA=%27YES%27&MAKE_EPHEM=%27YES%27&EPHEM_TYPE=%27OBSERVER%27&CENTER=%27500@399%27&START_TIME=%272006-01-01%27&STOP_TIME=%272006-01-20%27&STEP_SIZE=%271%20d%27&QUANTITIES=%271,9,20,23,24,29%27)
+
+<div class="box">
+
+  {% for post in site.posts %}
+     
+    <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">{{ post.title }}</a>
+  
+     
+  {% endfor %}
+   
+ </div> 
+
+{{ site.url }}
+{{ site.baseurl }}
+
+### jekyll.version {{ jekyll.version }}
+OBJECT                            = MISSION
+  MISSION_NAME                    = "JUNO"
+   OBJECT                          = MISSION_INFORMATION
+    MISSION_START_DATE            = 2011-08-05
+    MISSION_STOP_DATE             = NULL [CATFiLE @stateofcalifornia @cityoflosangeles @nasa @nasa-jpl @podaac](https://naif.jpl.nasa.gov/pub/naif/pds/data/jno-j_e_ss-spice-6-v1.0/jnosp_1000/catalog/mission.cat)
+
+
+[Data Management Guidance for ESD-Funded Researchers](https://www.earthdata.nasa.gov/engage/data-management-guidance)
+
+![DodgersGoogleDoodle @MajorLeagueBaseball](https://www.google.com/logos/doodles/2025/mlb-fall-classic-2025-6753651837110842.2-ldrk.png)
+
+# California_Linux: 
+Maintaining Commitment NasaJpl_3arthdata MRO/JUNO:ECOSTRESS- @BlackGirlsCode @nasa-PDS @emit-sds
+[Link](https://archive.org/details/commitmentmaintenance) 
+
+
+<img  alt="image @nasa @nasa-jpl @blackgirlscode" src="https://github.com/user-attachments/assets/80edb710-cf75-4062-9fee-676efd44293d" />
+
+![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
+
+
+
+![sentinel 3 @nasa @emit-sds @stateofcalifornia @cityoflosangeles @blackgirlscode _ normani TYRA...](https://www.esa.int/eologos/images/sentinel-3_neg.jpg)
+
+Profile Information
+Name: Rashard I Kelly
+Username: rashardkelly
+Email Address: holetoanotheruniverse40@gmail.com
+Organization: Mars Reconnocinse Orbiter #NasaJPL #La_CanaDa_FlintRidge Los Angeles County California
+Country: United States
+Member Since: 08-24-2024
+Last Authentication: 11-16-2025
+Federated User: False
+Application Creator: False
+User Type: Science Team
+Study Area: Atmospheric Aerosols
+Affiliation: Government
+Allow Email Notifications from Applications: True
+Agreed To Meris EULA: True
+Agreed To Sentinel-3 EULA: True
+Protection and maintenance of user profile information is described in NASA's Web Privacy Policy
+
+For questions regarding the EOSDIS Earthdata Login, please contact Earthdata Support
+
+
+V 4.231.2 Home NASA Accessibility
+NASA Official: Doug Newman
+@doug-newman-nasa hi, i will start talking to you to get up to speed, after i left i started helping my significant other with [her programming club](https://www.facebook.com/BlackGirlsCodeOrg/posts/pfbid02gnwvon4s1q5e1h7EsoGvWaxQxbdYE822ukNiFaFqyRDJNzfwv8CKmrj5LFeBmyT5l)... [I met her](https://youtu.be/ALHloX7kKaY) in a [dance studio](https://youtu.be/DODfucCQ91Q?si=8U_gm0NuyF2KmoCZ). [she has supervision](https://obamawhitehouse.archives.gov/champions/tech-inclusion/kimberly-bryant) at @Whitehouse kimberly-bryant and i did get intimate with her and theres scandal at this age and she has a hit song about [saturn](https://www.youtube.com/watch?v=V2G8ESoDXm8).... its a big mess, that one that dumped me [erika](https://www.essence.com/tags/erika-kelly/), i dont know what happened to all [her embryos](https://www.fertilityiq.com/fertilityiq/doctors/richard-sherbahn) ... and i saw kids in la that look like me... and at the very least im in a relationship with normani to help [her](https://www.linkedin.com/posts/black-girls-code_celebrityfamilyfeud-familyfeudabc-blackgirlscode-activity-7363644763058667520-CItA) recover from sex trafficking at a @CiA @FBi @dhs-gov level and any time i miss from work is because soeone is about to die from the story they gave me, or commit armed robbery, or succumb to rape... Thats how she communicates, and its via some tracking tech that her owners use on her...  I am just really confused bc [shes famous under the name moesha](https://www.dailymotion.com/video/x7l6nux) and im just overwhelmed and need the lab to help me understand that hollywood has been as it is a long ass time and i am not a freak as a departnered man... -[Rashard](https://rashardsdata.github.io/) btw i still think like 5 girls play her role on tv and i have been intimate with unclothed pelvises with two of them [Normani Felt Hidden Being the Only Black Girl in Fifth Harmony: 'I Don't Think They Knew How' to Be There for Me](https://people.com/normani-felt-hidden-being-the-only-black-girl-in-fifth-harmony-8722916)
+
+@doug-newman-nasa 
+At the very least i got intimate with a girl and im running from people bc she is a vixen from hollywood this her cat parlor [sister](https://abcnews.go.com/Entertainment/nicki-minaj-humiliated-fight-cardi-york-fashion-week/story?id=57739841) and the dudes from her hollywood life are tracking me doxxing me and giving me boils from acidic weapons that go through my clothes, they even knocked a tooth out by sabotaging crackers at [HollyWoodFood CoAlition](https://hofoco.org/) i have an [archive.org](https://archive.org/details/@thakaserika_selassie_kelly) account but i like people in @StateofCalifornia to keep a tab on my archive [CommitmentMAintentance](https://archive.org/details/commitmentmaintenance) theres plots in there, github accounts coming soon and daily video if i can upload of my adventured getting interenet access arounce @CityOfLosAngeles&& check out my [FireData](https://rashardsdata.github.io/2025/11/12/FireReportCleanUp.html) `constantlyCompiling earthdata` @usgs @blackgirlscode! The Music in that soundcloud embed [BarbieDrip](https://www.youtube.com/watch?v=Td8W1rG_tiI) you have to separate to hear the technology at least i think you do, because a song is one [granule](https://www.earthdata.nasa.gov/data/catalog) of a story, ask your significant other for permission to listen, i dont want to hurt noone, there is no nudity but if @nasa-jpl can look through [Queens4](https://youtu.be/PQuaztBuTuw?si=aG5HXAJY18oy5rL9)! Them girls on full on computes building software to make music when the cellular providers start limiting thier access
+[GloRilla - Internet Trolls (ft. Hitkidd)](https://youtu.be/RmxF264KyIs?si=8pfTjBofmjTsxlsi) :: [Sonta "Your Mistake"](https://youtu.be/FiGAkDE7s7o?si=dcSn1SPGXMi9yFDy) :: [Omeretta the Great- Sorry Not Sorry](https://youtu.be/6IvchaA0B3Y?list=RD6IvchaA0B3Y) :: [Rico Nasty - IPHONE](https://youtu.be/RuhvdaDabpU?list=RDRuhvdaDabpU)
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A1192830019&color=%23646460&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/youngmoneybarbie" title="Nicki Minaj" target="_blank" style="color: #cccccc; text-decoration: none;">Nicki Minaj</a> · <a href="https://soundcloud.com/youngmoneybarbie/barbie-drip" title="Barbie Drip" target="_blank" style="color: #cccccc; text-decoration: none;">Barbie Drip</a></div>
+
+@podaac @nasa @nasa-jpl @nasa-pds @R-spacex @ESA 
+
+![sentinel 3 @nasa @emit-sds @stateofcalifornia @cityoflosangeles @blackgirlscode _ normani TYRA...](https://www.esa.int/eologos/images/sentinel-3.jpg)
+
+i like baseball, but im not trying to play... still love the braves
+![DodgersGoogleDoodle @MajorLeagueBaseball](https://www.google.com/logos/doodles/2025/mlb-fall-classic-2025-6753651837110842.2-ldrk.png)
+
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/e7820ab0-fa23-421b-8290-13e29f961576" />
+
+
+Essence tell her hi https://www.11alive.com/article/entertainment/television/programs/the-a-scene/why-rapper-mulatto-changed-her-name/85-2e9c3a1c-0d0f-4ea3-9589-91ded4a60165 https://www.hotnewhiphop.com/670664-latto-name-change Normani im scared i dont want her running up on me... she will ruin everything!  https://www.complex.com/music/a/cmplxtara-mahadevan/latto-responds-troll-referencing-her-past-rap-name Secretary Sean Duffy imma be real im in a bind... Rachel Campos-Duffy Jennifer Siebel Newsom Governor Newsom Congressmember Karen Bass The Secretary of the Navy The Office of the Chief of Naval Operations Mori & Associates Grammy Awards 
+`Warning`! You are engaging in behavior that may be considered annoying or abusive by other users. Facebook's systems determined that you were going too fast when taking an action. You must significantly slow down. Further misuse of site features may result in a temporary block or your account being permanently disabled.
+@nasa @nasa-jpl @cisagov im being doxxed on @meta @blackgirlscode
+If you think this doesn't go against our Community Standards let us know. Give feedback
+
+<embed src="https://bubblegumpop01.tumblr.com/" style="width:100%; height: 300px;">
+
+<img  alt="image" src="https://github.com/user-attachments/assets/befe99ca-733d-4680-9197-8cc40d1d1c82" />
+
+
+Private Snafu
+<iframe src="https://archive.org/embed/private-snafu-collection" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+While i was working @gatech [WatchNow](https://www.youtube.com/watch?v=rC6177nXWjI) see @blackgirlscode live! 
+<img  alt="image Gucci Mane is an American rapper" src="https://github.com/user-attachments/assets/8496989d-6c26-4960-b390-49edc09b295b" />
+
+## @canonical @canonicalltd @splunk
+@nasa-jpl @emit-sds @nasa @nasa-pds @blackgirlscode
+I address my conflict at [iOnic_Security](https://archive.org/download/commitmentmaintenance/00000_canonical_unconference_normaniPromise_blackgiscode_kashdoll_VID_20251024_093610_625.mp4) 
+
+
+![playBall](https://www.google.com/logos/doodles/2025/mlb-fall-classic-2025-6753651837110842.2-sdrk.png)
+
+Nor[mani](https://youtu.be/OKg6oJbhY3s?si=thR4_JHrADmBj8fj) maybe dwayne was an undercover The Secretary of the Navy Bill Nelson The Office of the Chief of Naval Operations NASA Science Congressmember Karen Bass Normani i thought he was in a sexual relationship with our manager bc he said ethiopian girls are hard to get, an asked if i was into blackplanet for fuckkin bitchiz Nicki Minaj and after muna died he said people are always dying around you Canonical Red Hat Summit they were running #jenkins on #Ubuntu_14_04 and it was end of life so if its not being supported its not ubuntu if used in that context of a security company for outgoing communication  @nasa-jpl Goldstone Deep Space Communications Complex thats y i threw  a tantrum! ABC7 Morning Show Mori & Associates NASA Astronaut Jonny Kim Congressmember Karen Bass the operating system maintenace was dangerous for any admins reputation, #Dwayne is Black from #D_C and was competative with me , boppin in the office listening to 2 Chainz im a child and the neighborhood [dance academy](https://youtu.be/XZD8U6BUUwA?si=qOWhtElevdRj5Ou0) ; [Dance411](https://www.youtube.com/@Dance411) says we should [dance](https://youtu.be/8RGUavirXbQ?si=GB-G-lYHJQGKkdaX) to [everyone](https://youtu.be/v5gBfbz-M24?si=X93Nm5V8_3wGNJQI) in the community, thats some [#PineSolCamelKoolPimPRap](https://www.youtube.com/watch?v=tU3p6mz-uxU0)! Lindsey Horvath Laurie Leshin ExploreAstro at Caltech/IPAC NASA's Perseverance Mars Rover i listened an i like new beats but he was looking for a strip club partner Jada Pinkett Smith is will in the military ? National Museum of the Marine Corps [saturday choreo](https://youtu.be/MpEDwup5O3M?si=XuBKRY3Gflw07XKw)
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0dQFMMP13Dxv6UudfnHjP2q8XyP7Q9RTNNuf7Cmh85xfC8CUbSTVJ96ikTQvV2aTel%26id%3D100084464911565&show_text=true&width=500" width="500" height="723" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+![@blackgirlscode `learn_logging`](https://dev.splunk.com/developer-program/assets/images/dark/Logo.svg)
+[https://dev.splunk.com OR dev.splunk.com](https://dev.splunk.com/)
+![@splunk @nasa-jpl](https://dev.splunk.com/developer-program/assets/images/dark/WelcomeLogo.svg) 
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0fRYHvHE68aSdVT13e7WK2HG8nNxESURYhJmft4o8xnHpyE3Ko33dyWwpioq8R8rYl%26id%3D100084464911565&show_text=true&width=500" width="500" height="965" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+
+![NEOGEO @libretro](https://ia801202.us.archive.org/34/items/2020-super-baseball-ccm/2020%20Super%20Baseball%20-%20Cartridge%20-%20Top.jpg) 
+[2020 Super Baseball (set 3)](https://www.retrogames.cc/arcade-games/2020-super-baseball-set-3.html) / [snes](https://nintendo.fandom.com/wiki/Super_Baseball_2020) : [wiki](https://strategywiki.org/wiki/File:Super_Baseball_2020_US_Genesis_box.jpg) [*](https://wiki.neogeodev.org/index.php?title=2020_Super_Baseball) : [pedia](https://en.wikipedia.org/wiki/Super_Baseball_2020)
+i like baseball[,](https://apps.apple.com/us/app/2020-super-baseball-aca-neogeo/id1631488139) but im not trying to play till my ankle heals.[.](https://www.nintendo.com/us/store/products/aca-neogeo-2020-super-baseball-switch/?srsltid=AfmBOoppxU0UljdQkK5VNW12ZEftsYfrhpC93NsIpVVHDGwGjwMjXNww). still [love the braves](https://www.neogeofun.com/2020bb-2)
+
+![sega sb2020](https://cdn.wikimg.net/en/strategywiki/images/3/3e/Super_Baseball_2020_US_Genesis_box.jpg)
+
 ## [Mars Reconnaissance Orbiter](https://eyes.nasa.gov/apps/solar-system/#/sc_mars_reconnaissance_orbiter) [(MRO 31-468)](https://planetarydata.jpl.nasa.gov/img/data/mro/marci/mrom_0001/document/mro_arch_plan.pdf)  
 Project [pdf](https://planetarydata.jpl.nasa.gov/img/data/mro/marci/mrom_0001/document/mro_arch_plan.pdf)
 @BlackgirlsCode i wanna beg @normani on @github to never reply @nasa-pds --- 

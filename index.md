@@ -71,6 +71,106 @@ The Story of NASA's Spaceflight Tracking and Data Network
 @nasa This site can’t be reached
 https://firms.modaps.eosdis.nasa.gov/map/ is unreachable.
 ERR_ADDRESS_UNREACHABLE
+
+
+[<img src="https://web.archive.org/web/20060104192812im_/http://mars.jpl.nasa.gov/mro/images/mro_banner.jpg">]( https://web.archive.org/web/20060108092026/http://mars.jpl.nasa.gov/mro/)
+
+
+## Ed
+Ed is a builtin text editor often found on [Posix](https://youtu.be/U0GbJtnfqSM?si=EHhlbOBqDZK5QVjz) based systems. I learned about [sed](https://youtu.be/EACe7aiGczw?si=_7iR-f8OVLd_xvKe) while working for [Fiserv](https://www.youtube.com/watch?v=MTxJYR-MMdg) a fiscal data holdings company. I cant remember how i built out my then famous scheduling kiosk but i feel like i was a [gui](https://youtu.be/xzTtqKX_lGQ?si=ggfagtl6GgL1GOKt) based option like [gedit](https://www.reddit.com/r/gedit/) thats bundled with [gnome](https://www.gnome.org/). But then again i was a [KDE](https://kde.org/plasma-desktop/) user and i use a lot of tutorials. But from what i recall of my fiserv interview; Todd Goldsmith asked me how to edit a file in vi, i recall sayinng "i dont know".. and aftee [getting hired](https://www.wayup.com/i-Biotechnology-j-Mori-Associates-266419979449381/) learning the technology.
+`lastorfirst?.`<=is a [ed](https://www.redhat.com/en/blog/introduction-ed-editor) append(ation) 
+
+### Back to ed
+Since the girls went missing i have no income bc i was doing all the admin work for me and coral for all three relationships erika(biomommy), Muna, Sartu(normani) and when they migrated to playboy via trunk at least the last two, the ones that loved me... I lost all access to services and while the library is open i have reputation issue which make the staff slow to help me, so i just use guest passes and print. 
+ú
+One day, doing some research for [work](https://www-robotics.jpl.nasa.gov/how-we-do-it/facilities/marsyard-iii/), i stumbled onto an old [ATT document](https://www.youtube.com/playlist?list=PLF3A0E5B0F6B5984D) "[The UNiX Programming Environment](https://www.reddit.com/r/unix/comments/1d3epcb/should_i_get_a_copy_of_the_unix_programmers/)". Since I have no income i eat breakfast at St Francis and 5 days a week they let you eat inside, so its a nice short break after sleeping outdoors. Its a recovery center as well monitored by [UCLA](https://uclaconnectionlab.org/internet-museum/). Oneday dueing breakfast, i pull reading material out of my [3ring binder](https://www.linux.org/threads/linux-on-android.48557/) an felt inspired to work on my[unixing](0) and started readinbthe preface. It was an amazing feeling because finding pure [Posix]()guidance is challenging but worth the quest! If im stuck on linux like i am now [UsingAndroid](https://www.linux.org/threads/linux-on-android.48557/) i can direct my energy places that make me better prepared to solve some complex puzzle that can randomly arise being a[Nasa-JPL Employee](https://www.jpl.nasa.gov/stateofthelab/) . E-ntering the rhythm of yhe text my heart filled with mystery an joy about the infrastructure i work with my team to care for here in north america and out interstellar flyingtoasters. more that soft mushiness later! 
+
+### Discovering Ed
+After becoming overwhelemed with joy that i was getting [UnixLessons](https://people.ischool.berkeley.edu/~kevin/unix-tutorial/toc.html) from [TheEra](https://www.youtube.com/watch?v=tc4ROCJYbm0) i settled into a short introduction to [creating files](https://en.wikipedia.org/wiki/Unix_file_types). [Ed](https://www.gnu.org/software/ed/) was introduced with an innocence that it was enough to accomplish anyjob. so ibput on my [Att Hardhat Heart](https://youtu.be/YTdxdr9pNnw?si=1Z2j2kRWMSX0PRiC) and dug in. The tutorial is so straight forward find it [here](https://github.com/tcd/tupe/blob/master/the-unix-programming-environment-kernighan-pike.pdf). if u knkw the basic utils like ls, u can blog at microblogging intensity on github. Using github ... man i got tricked. Jeff worked for JPL so my time being homeless an mistreated by family services seems like a bosshogjoke to babysit dance411 while the porno scourge subsides an prostitution mellow out ...
+
+as far as blogging goes, if you run `cat` + `RegEx` it will print everything neatly
+ 
+ <blockquote class="twitter-tweet" data-media-max-width="560"><p lang="qme" dir="ltr"><a href="https://twitter.com/RepKarenBass?ref_src=twsrc%5Etfw">@RepKarenBass</a> <a href="https://twitter.com/Power106LA?ref_src=twsrc%5Etfw">@Power106LA</a> <a href="https://twitter.com/NASAJPL?ref_src=twsrc%5Etfw">@nasajpl</a> <a href="https://twitter.com/hashtag/grad?src=hash&amp;ref_src=twsrc%5Etfw">#grad</a> <a href="https://t.co/dZ8s8RgZlD">pic.twitter.com/dZ8s8RgZlD</a></p>&mdash; ricoThaka (@RicoThaka) <a href="https://twitter.com/RicoThaka/status/1893023150260301902?ref_src=twsrc%5Etfw">February 21, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+[BlackGirlsCode](#BlackGirlsCode) 
+[![Twitter Follow](https://img.shields.io/badge/Social-@BlackGirlsCode__-blue?style=social&logo=X)](https://twitter.com/@BlackGirlsCode)
+### Ed example as found in
+`The Unix Programming Environment`
+
+```
+^_^]^K
+^LCHAPTER 1
+^_^]UNIX FOR BEGINNERS 13
+^_^]What files are out ther
+e?
+Let's create two files, jun
+k and temp, so we know what
+ we have:
+$ ed
+a
+To be or not to be         ^_^]w junk                 19                         q
+
+$ ed
+a
+That is the question.
+^_^]w temp
+22
+q                          $                          ^_^]The character counts from ed include the character at the end of each line,  called newline, which is how the system represents RETURN.
+
+```
+[DataMAnagement](https://daac.ornl.gov/datamanagement/)
+<div class="tupperware">
+<video preload="auto" width="auto" height="400px" controls> 
+	<source src="https://ia800208.us.archive.org/33/items/mondaycmd/screen-20250303-091735.mp4" type="video/mp4">	 
+</video> 
+
+<video preload="auto" width="auto" height="400px" controls> 
+	<source src="https://ia600208.us.archive.org/33/items/mondaycmd/screen-20250303-092102.mp4" type="video/mp4">	 
+</video> 
+
+<video preload="auto" width="auto" height="400px" controls> 
+	<source src="https://ia800208.us.archive.org/33/items/mondaycmd/screen-20250303-094856.mp4" type="video/mp4">	 
+</video> 
+</div>
+
+[xScreensaver on Android](https://x.com/BubbleGumPop626/status/1743038270815236483)
+
+
+[<img src="https://ia800208.us.archive.org/33/items/mondaycmd/mondaycmd2.png" width=auto height=auto alt="Rashard commandline horizontal screenshot merge using imagemagick"/>](hhttps://ia800208.us.archive.org/33/items/mondaycmd/mondaycmd2.png)
+[<img src="https://archive.org/download/mondaycmd/mondaycmd.png" alt="Rashard commandline horizontal screenshot merge using imagemagick"/>](https://archive.org/download/mondaycmd/mondaycmd.png)
+
+![GNU](https://upload.wikimedia.org/wikipedia/commons/5/53/GNU_and_Tux.svg)
+
+![gnu](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Gnu-listen-half.jpg/1280px-Gnu-listen-half.jpg)
+
+<style>
+.drop {filter: drop-shadow(4px 4px 1px #b71c1c);}
+[images to fill container](https://www.w3schools.com/css/css_rwd_images.asp)
+</style>
+
+![bellLabs](https://memorial.bellsystem.com/images/bell_stripe_header.png)
+
+<svg class="drop"  width="25%" height="25%" viewBox="0 0 508.204 141.732" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+<path d="M91.991 104.699c1.576 5.961 4.119 8.266 8.613 8.266 4.659 0 7.102-2.799 7.102-8.266V3.2h29.184v101.499c0 14.307-1.856 20.506-9.11 27.762-5.228 5.229-14.871 9.271-27.047 9.271-9.837 0-19.25-3.256-25.253-9.27-5.263-5.273-8.154-10.689-12.672-27.764L44.9 37.033c-1.577-5.961-4.119-8.265-8.613-8.265-4.66 0-7.103 2.798-7.103 8.265v101.5H0v-101.5C0 22.727 1.857 16.527 9.111 9.271 14.337 4.044 23.981 0 36.158 0c9.837 0 19.25 3.257 25.253 9.27 5.263 5.273 8.154 10.689 12.672 27.764zm386.047 33.834L444.334 33.096c-.372-1.164-.723-2.152-1.263-2.811-.926-1.127-2.207-1.719-3.931-1.719-1.723 0-3.004.592-3.931 1.719-.539.658-.891 1.646-1.262 2.811l-33.703 105.437h-30.167l36.815-115.177c1.918-6 4.66-11.094 8.139-14.488C421.002 3.047 428.038 0 439.141 0s18.14 3.047 24.109 8.867c3.479 3.395 6.221 8.488 8.14 14.488l36.814 115.177zm-149.16 0c19.12 0 28.446-4.062 35.814-11.389 8.153-8.105 12.053-16.973 12.053-30.213 0-11.699-4.283-22.535-10.804-29.019-8.526-8.479-19.116-11.151-36.384-11.151l-24.187-.001c-9.242 0-12.925-1.117-15.839-3.98-2.001-1.964-2.939-4.885-2.939-8.328 0-3.559.857-7.074 3.303-9.475 2.171-2.131 5.13-3.109 10.816-3.109h69.903V3.2H306.05c-19.12 0-28.445 4.063-35.814 11.389-8.152 8.105-12.053 16.972-12.053 30.212 0 11.701 4.283 22.536 10.804 29.019 8.527 8.479 19.116 11.152 36.384 11.152l24.188.002c9.242 0 12.925 1.115 15.839 3.979 2.001 1.965 2.939 4.885 2.939 8.328 0 3.559-.857 7.074-3.302 9.475-2.172 2.131-5.131 3.109-10.817 3.109h-72.094l-27.651-86.509c-1.918-6-4.66-11.094-8.139-14.488C220.363 3.047 213.327 0 202.224 0s-18.14 3.047-24.108 8.867c-3.48 3.395-6.221 8.488-8.139 14.488l-36.815 115.177h30.166l33.704-105.437c.372-1.164.723-2.152 1.263-2.811.926-1.127 2.208-1.719 3.931-1.719s3.004.592 3.931 1.719c.54.658.891 1.646 1.262 2.811l33.704 105.437z" fill="#DB362D" />
+</svg>
+
+<img src="https://im.vsco.co/aws-us-west-2/12f8b0/56497/600b63321d78311648000003/vsco600b633468109.jpg" />
+
+# The “IT” GIRLS 💗💅🏽| A Kinigra Deon Original
+[book with same title](https://www.amazon.com/Girls-Novel-Karen-Harper/dp/0062567772) [LightboxViewer](https://youtu.be/gbOlCyQ4Hr8?si=pKj80MmOTMhRvsRa) [Kinigra Deon](https://www.youtube.com/@KinigraDeon) [Kinigra TiKTOK](https://www.tiktok.com/@kinigradeon?lang=en) [KinigRa on @twitter](https://x.com/kinigra?lang=en) @nasa-jpl this is one of the girls from atlanta(ish) that need protection digitally @blackgirlscode she made a movie an she know coral~
+<iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/c_AqZMlbm4c?si=WzsKwYmFkxrk-u2G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
+
+[resized](https://red-route.org/code/image-layout-size-calculator)
+
+
+![RiCoTHAKA/LinuXKerneL](https://pbs.twimg.com/media/GjOh-70aQAMkraB?format=jpg&name=large)
+[LinuX KErnel Repo](https://x.com/thakasartu/status/1888030971414594018) [ricoThaka/linux/tree/master](https://github.com/ricoThaka/linux/tree/master)
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/b955129f-8452-427b-8df8-d9d0b74e3508" />
+
+<img alt="image" src="https://github.com/user-attachments/assets/3b6351f1-844d-44fa-9126-bfc470a7990c" />
+
 : [Mission Objectives](https://www.google.com/logos/doodles/2025/fourth-of-july-2025-6753651837110704-2x.png) NASA's Mars Reconnaissance Orbiter searches for evidence that water persisted on the surface of Mars for a long period of time. [ReadMore](https://science.nasa.gov/mission/mars-reconnaissance-orbiter/) 
 Rashard Kelly Nas[a](https://www.cia.gov/careers/)Jpl MRO [JUNO](https://naif.jpl.nasa.gov/pub/naif/pds/data/jno-j_e_ss-spice-6-v1.0/jnosp_1000/catalog/mission.cat) [+](https://naif.jpl.nasa.gov/pub/naif/pds/data/jno-j_e_ss-spice-6-v1.0/jnosp_1000/catalog/mission.cat) iS[S](https://www.usgovernmentmanual.gov/Agency?EntityId=VSLfQ4vlJ2o=&ParentEId=+klubNxgV0o=&EType=jY3M4CTKVHY=) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ThakaRashard/rashardmro.git/HEAD) ![Build Status](https://github.com/jekyll/jekyll/workflows/Continuous%20Integration/badge.svg) ![Gem Version](https://img.shields.io/gem/v/jekyll.svg) [emit](https://earth.jpl.nasa.gov/emit/) [genesisReturn](https://ssd.jpl.nasa.gov/api/horizons.api?format=text&COMMAND=%27-47900%27&OBJ_DATA=%27YES%27&MAKE_EPHEM=%27YES%27&EPHEM_TYPE=%27OBSERVER%27&CENTER=%27500@399%27&START_TIME=%272006-01-01%27&STOP_TIME=%272006-01-20%27&STEP_SIZE=%271%20d%27&QUANTITIES=%271,9,20,23,24,29%27)
 
@@ -267,40 +367,16 @@ indeed since at least several hundred terabits of data will be produ
 <a href="https://planetarydata.jpl.nasa.gov/img/data/mro/marci/mrom_0001/document/mro_arch_plan.pdf?fbclid=IwY2xjawOEesZleHRuA2FlbQIxMABicmlkETBGS215bEdpRUdVVlpsRG1Uc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHgRBZrVfdRrWWVSmdribYRFMg9s4d7JExKUkNRu4DKLvkpCFmPk4GVnvEJ72_aem_RMmZNpd5dlPYz0O71Ex9UA">Mars Reconnaissance Orbiter (MRO) Project</a>
 last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}
 
-@blueorigin @blackgirlscode @nasa-pds @cityoflosangeles @LACMTA hi 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sT4Hr-Il30?si=7w9ShB59sgRyL98q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 
 
 @usgs [Index of VIP01.004:](https://e4ftl01.cr.usgs.gov/MEASURES/VIP01.004/), [BadgeNotes](https://media.defcon.org/DEF%20CON%2033/DEF%20CON%2033%20video%20and%20slides/DEF%20CON%2033%20-%20Making%20the%20DEF%20CON%2033%20Badge%20-%20Mar.mp4?fbclid=IwY2xjawOAtLJleHRuA2FlbQIxMABicmlkETFMeUFwNVFDY3RBTTJralBGc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHm7z55Iz2x41YkoLzAItSlR4-Mu7Vys5bg9CYLGdM19K90jcocMoUEH4nkhU_aem_jciDbMwVJEFHdDy3VSZq7Q) [l8tr @blackgirlscode @brandynorwood @normani](https://media.defcon.org/DEF%20CON%2032/DEF%20CON%2032%20video%20and%20slides/DEF%20CON%2032%20-%20A%20Treasure%20Trove%20of%20Failures%20-%20What%20History%E2%80%99s%20Greatest%20Heist%20Can%20Teach%20Us%20About%20Defense%20In%20Depth%20-%20Pete%20Stegemeyer.mp4) @
 
-
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fblueorigin%2Fposts%2Fpfbid02egBKgBbkGdfJXSmCN2knD6QcqXwQAtTn6PmXXt7rz4VUQ4e2uDGPk3XGeBcA8wsl&show_text=true&width=500" width="500" height="225" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 <img  alt="image" src="https://github.com/user-attachments/assets/62f5acd5-245f-4fd1-a0ed-6cc0446be7de" />
 
 ![https://science.nasa.gov/mission/mars-2020-perseverance/ingenuity-mars-helicopter/](https://www.google.com/logos/fnbx/ingenuity/heli_dark.gif)
 
 ![image](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
-
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02QS8KX7p6dFSadSA5B1grimiQ9wth4UUbkkgip6GcDrddMWuBD7ZpVo9nepsZUzzUl%26id%3D100084464911565&show_text=true&width=500" width="500" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
-
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02Tw3GCukTNa6uTKobKTFR6QBG173Fx38YnYRtVoGBTesdCzkiKbF1L6Zy3V25sbVUl%26id%3D100084464911565&show_text=true&width=500" width="500" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
-
-last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}
-[Experiance Insight](https://eyes.nasa.gov/apps/experience-insight/InSight.html) 
-
-
-
-```
-New Glenn's second mission will launch from Launch Complex 36 at Cape Canaveral Space Force Station and will send NASA’s ESCAPADE twin spacecraft to Mars. This launch will support ESCAPADE’s science objectives as the twin spacecraft progress on their journey to the Red Planet.
-```
-[ORigin @ucberkeley](https://escapade.ssl.berkeley.edu/)
-[READMORE @ucberkeley @BlueOrigin](https://www.blueorigin.com/missions/ng-2)
-![view](https://www.blueorigin.com/_next/image?url=https%3A%2F%2Fd1o72l87sylvqg.cloudfront.net%2Fredstone%2FMissions_NG-2-Trajectory.jpg&w=1920&q=75)
-![https://upload.wikimedia.org/wikipedia/commons/7/75/EscaPADE_logo.png @blueorgin](https://upload.wikimedia.org/wikipedia/commons/7/75/EscaPADE_logo.png)
-
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0zz2PWKyzYnShWa6ZkMfHhp9mcuBHxf2PAMDSE9FsxCyG8hdz6jgdHjAa2WC6f2j9l%26id%3D100084464911565&show_text=true&width=500" width="500" height="779" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 [SolidSteel - DK 785 @blackgirlscode](https://soundcloud.com/theclassicmixcdseries/dj-food-dk-now-listen?fbclid=IwY2xjawN_StlleHRuA2FlbQIxMABicmlkETFGZ3pPWUlkV1luaDJqSDZWc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHj8ZEDQAPSAbggJI_F2HJHmu48pDIzaqlWUO5b-n8qfo5wztTNpbEtMFHaX-_aem_pZ4dss4346GRs81r7Q8PxA)
 
@@ -405,15 +481,10 @@ I address my conflict at [iOnic_Security](https://archive.org/download/commitmen
 
 Nor[mani](https://youtu.be/OKg6oJbhY3s?si=thR4_JHrADmBj8fj) maybe dwayne was an undercover The Secretary of the Navy Bill Nelson The Office of the Chief of Naval Operations NASA Science Congressmember Karen Bass Normani i thought he was in a sexual relationship with our manager bc he said ethiopian girls are hard to get, an asked if i was into blackplanet for fuckkin bitchiz Nicki Minaj and after muna died he said people are always dying around you Canonical Red Hat Summit they were running #jenkins on #Ubuntu_14_04 and it was end of life so if its not being supported its not ubuntu if used in that context of a security company for outgoing communication  @nasa-jpl Goldstone Deep Space Communications Complex thats y i threw  a tantrum! ABC7 Morning Show Mori & Associates NASA Astronaut Jonny Kim Congressmember Karen Bass the operating system maintenace was dangerous for any admins reputation, #Dwayne is Black from #D_C and was competative with me , boppin in the office listening to 2 Chainz im a child and the neighborhood [dance academy](https://youtu.be/XZD8U6BUUwA?si=qOWhtElevdRj5Ou0) ; [Dance411](https://www.youtube.com/@Dance411) says we should [dance](https://youtu.be/8RGUavirXbQ?si=GB-G-lYHJQGKkdaX) to [everyone](https://youtu.be/v5gBfbz-M24?si=X93Nm5V8_3wGNJQI) in the community, thats some [#PineSolCamelKoolPimPRap](https://www.youtube.com/watch?v=tU3p6mz-uxU0)! Lindsey Horvath Laurie Leshin ExploreAstro at Caltech/IPAC NASA's Perseverance Mars Rover i listened an i like new beats but he was looking for a strip club partner Jada Pinkett Smith is will in the military ? National Museum of the Marine Corps [saturday choreo](https://youtu.be/MpEDwup5O3M?si=XuBKRY3Gflw07XKw)
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0dQFMMP13Dxv6UudfnHjP2q8XyP7Q9RTNNuf7Cmh85xfC8CUbSTVJ96ikTQvV2aTel%26id%3D100084464911565&show_text=true&width=500" width="500" height="723" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 ![@blackgirlscode `learn_logging`](https://dev.splunk.com/developer-program/assets/images/dark/Logo.svg)
 [https://dev.splunk.com OR dev.splunk.com](https://dev.splunk.com/)
 ![@splunk @nasa-jpl](https://dev.splunk.com/developer-program/assets/images/dark/WelcomeLogo.svg) 
-
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0fRYHvHE68aSdVT13e7WK2HG8nNxESURYhJmft4o8xnHpyE3Ko33dyWwpioq8R8rYl%26id%3D100084464911565&show_text=true&width=500" width="500" height="965" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
-
-
 ![NEOGEO @libretro](https://ia801202.us.archive.org/34/items/2020-super-baseball-ccm/2020%20Super%20Baseball%20-%20Cartridge%20-%20Top.jpg) 
 [2020 Super Baseball (set 3)](https://www.retrogames.cc/arcade-games/2020-super-baseball-set-3.html) / [snes](https://nintendo.fandom.com/wiki/Super_Baseball_2020) : [wiki](https://strategywiki.org/wiki/File:Super_Baseball_2020_US_Genesis_box.jpg) [*](https://wiki.neogeodev.org/index.php?title=2020_Super_Baseball) : [pedia](https://en.wikipedia.org/wiki/Super_Baseball_2020)
 i like baseball[,](https://apps.apple.com/us/app/2020-super-baseball-aca-neogeo/id1631488139) but im not trying to play till my ankle heals.[.](https://www.nintendo.com/us/store/products/aca-neogeo-2020-super-baseball-switch/?srsltid=AfmBOoppxU0UljdQkK5VNW12ZEftsYfrhpC93NsIpVVHDGwGjwMjXNww). still [love the braves](https://www.neogeofun.com/2020bb-2)
@@ -560,40 +631,6 @@ I need to highlight these ==very important words==.
 ![Fprim3](https://fprime.jpl.nasa.gov/assets/images/overview/component-library-light.png)
 
 ![fprime @nasa-jpl](https://fprime.jpl.nasa.gov/assets/images/logo-fprime-jpl.svg) 
-
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02SZ63Yb5FTH5YnEeY8oKu2nQw8oDFnAStJKkrytUHxVDiTa7vrdrio7XsTGviXeUPl%26id%3D100084464911565&show_text=true&width=500" width="500" height="674" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
-
-
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02xR3uShR4U6dsqJCAGkcCGDuyLPLYQ36EbD1cUqwHZMrmu3xNLcbmZRMjc7WPgWyml%26id%3D100084464911565&show_text=true&width=500" width="500" height="469" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
-
-
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0fiU3PDvxMFJoToZVf5wYQLvdkM8BdXiZZA8HFFpCHmzxFvi8v3tQGbqTx5eMDjgil%26id%3D100084464911565&show_text=true&width=500" width="500" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
-
-### Ubuntu Summit 2024 | Day One @nasa-jpl @nasa
-@blackgirlscode @emit-sds @USnavy @nasa-pds
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LPCg0NcQICQ?si=MQ6C_Ypoy9Inji_9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
-
-
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0tDBj7MzUrLiPKsC83ZbqLMyNcG4GsVkMfYQmfTEkgLKDvdhQY1kugS2JR9LxA2Prl%26id%3D100084464911565&show_text=true&width=500" width="500" height="787" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
-
-
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02RwhmWvYGfW23yCxfduukCWxYWUQKVYuYgvWaZLfsSU2fD8P8JCJh6GEAY3HbZF5Rl%26id%3D100084464911565&show_text=true&width=500" width="500" height="562" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
-
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0rjg4Ng2wwTus1gP4Lk5sw4qEKQstsBw7aTecNcGusiSAk5VP1kCFziSR84kADH1Nl%26id%3D100084464911565&show_text=true&width=500" width="500" height="423" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
-
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02oynj3WZdXzRAPn3PSvZmDEhWA5Bg1MgPkf1gTdH2poTXLw9wYuRs8F9MKBtqnYyYl%26id%3D100084464911565&show_text=true&width=500" width="500" height="648" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
-@nasa-jpl 
-
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0mFsYyg7gYTsLum2WCHsf8wyRKHSHawYZeonU2ydmDvFSGamarmcUUcAqWp5zT1pCl%26id%3D100084464911565&show_text=true&width=500" width="500" height="430" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
-@amazon 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0Yxwz2fCv9VmhMM2cQsjTUxqckJKw5NoMC2s3HJi9tiT6DqXZoDttRF7i56ZU9wqJl%26id%3D100084464911565&show_text=true&width=500" width="500" height="781" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
-
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0eSCo5QiD4TULVRmZA6Ut3by8nMsUGbSshB6S5pd5mS3oK5SVN2Jjzug19Dt5aQVql%26id%3D100084464911565&show_text=true&width=500" width="500" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
-
-
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LPCg0NcQICQ?si=MQ6C_Ypoy9Inji_9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 @podaac @nasa-jpl @nasa-pds , something is toxix about the [@meta FACEBOOK accounts mentionedhere](https://www.facebook.com/TSGStrong/posts/pfbid0sfonZuvuZkvJUu9jyA4VMzM4p5TFzNX8XKvXJAhau7d9zuz9jmqN65Nzioy4NZv1l)
 [Link](https://www.facebook.com/TSGStrong/posts/pfbid0sfonZuvuZkvJUu9jyA4VMzM4p5TFzNX8XKvXJAhau7d9zuz9jmqN65Nzioy4NZv1l)
@@ -837,103 +874,6 @@ over a maximum of 30 hops:
 California_LinuX_rashard-ci-cd_DOXXED #DOS making notes for my manager - RAshardKelly @NASAJPL
 <iframe src="https://archive.org/embed/screen-recording-2025-07-20-141416-California_LinuX_rashard-ci-cd_DOXXED" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
-[<img src="https://web.archive.org/web/20060104192812im_/http://mars.jpl.nasa.gov/mro/images/mro_banner.jpg">]( https://web.archive.org/web/20060108092026/http://mars.jpl.nasa.gov/mro/)
-
-
-## Ed
-Ed is a builtin text editor often found on [Posix](https://youtu.be/U0GbJtnfqSM?si=EHhlbOBqDZK5QVjz) based systems. I learned about [sed](https://youtu.be/EACe7aiGczw?si=_7iR-f8OVLd_xvKe) while working for [Fiserv](https://www.youtube.com/watch?v=MTxJYR-MMdg) a fiscal data holdings company. I cant remember how i built out my then famous scheduling kiosk but i feel like i was a [gui](https://youtu.be/xzTtqKX_lGQ?si=ggfagtl6GgL1GOKt) based option like [gedit](https://www.reddit.com/r/gedit/) thats bundled with [gnome](https://www.gnome.org/). But then again i was a [KDE](https://kde.org/plasma-desktop/) user and i use a lot of tutorials. But from what i recall of my fiserv interview; Todd Goldsmith asked me how to edit a file in vi, i recall sayinng "i dont know".. and aftee [getting hired](https://www.wayup.com/i-Biotechnology-j-Mori-Associates-266419979449381/) learning the technology.
-`lastorfirst?.`<=is a [ed](https://www.redhat.com/en/blog/introduction-ed-editor) append(ation) 
-
-### Back to ed
-Since the girls went missing i have no income bc i was doing all the admin work for me and coral for all three relationships erika(biomommy), Muna, Sartu(normani) and when they migrated to playboy via trunk at least the last two, the ones that loved me... I lost all access to services and while the library is open i have reputation issue which make the staff slow to help me, so i just use guest passes and print. 
-ú
-One day, doing some research for [work](https://www-robotics.jpl.nasa.gov/how-we-do-it/facilities/marsyard-iii/), i stumbled onto an old [ATT document](https://www.youtube.com/playlist?list=PLF3A0E5B0F6B5984D) "[The UNiX Programming Environment](https://www.reddit.com/r/unix/comments/1d3epcb/should_i_get_a_copy_of_the_unix_programmers/)". Since I have no income i eat breakfast at St Francis and 5 days a week they let you eat inside, so its a nice short break after sleeping outdoors. Its a recovery center as well monitored by [UCLA](https://uclaconnectionlab.org/internet-museum/). Oneday dueing breakfast, i pull reading material out of my [3ring binder](https://www.linux.org/threads/linux-on-android.48557/) an felt inspired to work on my[unixing](0) and started readinbthe preface. It was an amazing feeling because finding pure [Posix]()guidance is challenging but worth the quest! If im stuck on linux like i am now [UsingAndroid](https://www.linux.org/threads/linux-on-android.48557/) i can direct my energy places that make me better prepared to solve some complex puzzle that can randomly arise being a[Nasa-JPL Employee](https://www.jpl.nasa.gov/stateofthelab/) . E-ntering the rhythm of yhe text my heart filled with mystery an joy about the infrastructure i work with my team to care for here in north america and out interstellar flyingtoasters. more that soft mushiness later! 
-
-### Discovering Ed
-After becoming overwhelemed with joy that i was getting [UnixLessons](https://people.ischool.berkeley.edu/~kevin/unix-tutorial/toc.html) from [TheEra](https://www.youtube.com/watch?v=tc4ROCJYbm0) i settled into a short introduction to [creating files](https://en.wikipedia.org/wiki/Unix_file_types). [Ed](https://www.gnu.org/software/ed/) was introduced with an innocence that it was enough to accomplish anyjob. so ibput on my [Att Hardhat Heart](https://youtu.be/YTdxdr9pNnw?si=1Z2j2kRWMSX0PRiC) and dug in. The tutorial is so straight forward find it [here](https://github.com/tcd/tupe/blob/master/the-unix-programming-environment-kernighan-pike.pdf). if u knkw the basic utils like ls, u can blog at microblogging intensity on github. Using github ... man i got tricked. Jeff worked for JPL so my time being homeless an mistreated by family services seems like a bosshogjoke to babysit dance411 while the porno scourge subsides an prostitution mellow out ...
-
-as far as blogging goes, if you run `cat` + `RegEx` it will print everything neatly
- 
- <blockquote class="twitter-tweet" data-media-max-width="560"><p lang="qme" dir="ltr"><a href="https://twitter.com/RepKarenBass?ref_src=twsrc%5Etfw">@RepKarenBass</a> <a href="https://twitter.com/Power106LA?ref_src=twsrc%5Etfw">@Power106LA</a> <a href="https://twitter.com/NASAJPL?ref_src=twsrc%5Etfw">@nasajpl</a> <a href="https://twitter.com/hashtag/grad?src=hash&amp;ref_src=twsrc%5Etfw">#grad</a> <a href="https://t.co/dZ8s8RgZlD">pic.twitter.com/dZ8s8RgZlD</a></p>&mdash; ricoThaka (@RicoThaka) <a href="https://twitter.com/RicoThaka/status/1893023150260301902?ref_src=twsrc%5Etfw">February 21, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-[BlackGirlsCode](#BlackGirlsCode) 
-[![Twitter Follow](https://img.shields.io/badge/Social-@BlackGirlsCode__-blue?style=social&logo=X)](https://twitter.com/@BlackGirlsCode)
-### Ed example as found in
-`The Unix Programming Environment`
-
-```
-^_^]^K
-^LCHAPTER 1
-^_^]UNIX FOR BEGINNERS 13
-^_^]What files are out ther
-e?
-Let's create two files, jun
-k and temp, so we know what
- we have:
-$ ed
-a
-To be or not to be         ^_^]w junk                 19                         q
-
-$ ed
-a
-That is the question.
-^_^]w temp
-22
-q                          $                          ^_^]The character counts from ed include the character at the end of each line,  called newline, which is how the system represents RETURN.
-
-```
-[DataMAnagement](https://daac.ornl.gov/datamanagement/)
-<div class="tupperware">
-<video preload="auto" width="auto" height="400px" controls> 
-	<source src="https://ia800208.us.archive.org/33/items/mondaycmd/screen-20250303-091735.mp4" type="video/mp4">	 
-</video> 
-
-<video preload="auto" width="auto" height="400px" controls> 
-	<source src="https://ia600208.us.archive.org/33/items/mondaycmd/screen-20250303-092102.mp4" type="video/mp4">	 
-</video> 
-
-<video preload="auto" width="auto" height="400px" controls> 
-	<source src="https://ia800208.us.archive.org/33/items/mondaycmd/screen-20250303-094856.mp4" type="video/mp4">	 
-</video> 
-</div>
-
-[xScreensaver on Android](https://x.com/BubbleGumPop626/status/1743038270815236483)
-
-
-[<img src="https://ia800208.us.archive.org/33/items/mondaycmd/mondaycmd2.png" width=auto height=auto alt="Rashard commandline horizontal screenshot merge using imagemagick"/>](hhttps://ia800208.us.archive.org/33/items/mondaycmd/mondaycmd2.png)
-[<img src="https://archive.org/download/mondaycmd/mondaycmd.png" alt="Rashard commandline horizontal screenshot merge using imagemagick"/>](https://archive.org/download/mondaycmd/mondaycmd.png)
-
-![GNU](https://upload.wikimedia.org/wikipedia/commons/5/53/GNU_and_Tux.svg)
-
-![gnu](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Gnu-listen-half.jpg/1280px-Gnu-listen-half.jpg)
-
-<style>
-.drop {filter: drop-shadow(4px 4px 1px #b71c1c);}
-[images to fill container](https://www.w3schools.com/css/css_rwd_images.asp)
-</style>
-
-![bellLabs](https://memorial.bellsystem.com/images/bell_stripe_header.png)
-
-<svg class="drop"  width="25%" height="25%" viewBox="0 0 508.204 141.732" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
-<path d="M91.991 104.699c1.576 5.961 4.119 8.266 8.613 8.266 4.659 0 7.102-2.799 7.102-8.266V3.2h29.184v101.499c0 14.307-1.856 20.506-9.11 27.762-5.228 5.229-14.871 9.271-27.047 9.271-9.837 0-19.25-3.256-25.253-9.27-5.263-5.273-8.154-10.689-12.672-27.764L44.9 37.033c-1.577-5.961-4.119-8.265-8.613-8.265-4.66 0-7.103 2.798-7.103 8.265v101.5H0v-101.5C0 22.727 1.857 16.527 9.111 9.271 14.337 4.044 23.981 0 36.158 0c9.837 0 19.25 3.257 25.253 9.27 5.263 5.273 8.154 10.689 12.672 27.764zm386.047 33.834L444.334 33.096c-.372-1.164-.723-2.152-1.263-2.811-.926-1.127-2.207-1.719-3.931-1.719-1.723 0-3.004.592-3.931 1.719-.539.658-.891 1.646-1.262 2.811l-33.703 105.437h-30.167l36.815-115.177c1.918-6 4.66-11.094 8.139-14.488C421.002 3.047 428.038 0 439.141 0s18.14 3.047 24.109 8.867c3.479 3.395 6.221 8.488 8.14 14.488l36.814 115.177zm-149.16 0c19.12 0 28.446-4.062 35.814-11.389 8.153-8.105 12.053-16.973 12.053-30.213 0-11.699-4.283-22.535-10.804-29.019-8.526-8.479-19.116-11.151-36.384-11.151l-24.187-.001c-9.242 0-12.925-1.117-15.839-3.98-2.001-1.964-2.939-4.885-2.939-8.328 0-3.559.857-7.074 3.303-9.475 2.171-2.131 5.13-3.109 10.816-3.109h69.903V3.2H306.05c-19.12 0-28.445 4.063-35.814 11.389-8.152 8.105-12.053 16.972-12.053 30.212 0 11.701 4.283 22.536 10.804 29.019 8.527 8.479 19.116 11.152 36.384 11.152l24.188.002c9.242 0 12.925 1.115 15.839 3.979 2.001 1.965 2.939 4.885 2.939 8.328 0 3.559-.857 7.074-3.302 9.475-2.172 2.131-5.131 3.109-10.817 3.109h-72.094l-27.651-86.509c-1.918-6-4.66-11.094-8.139-14.488C220.363 3.047 213.327 0 202.224 0s-18.14 3.047-24.108 8.867c-3.48 3.395-6.221 8.488-8.139 14.488l-36.815 115.177h30.166l33.704-105.437c.372-1.164.723-2.152 1.263-2.811.926-1.127 2.208-1.719 3.931-1.719s3.004.592 3.931 1.719c.54.658.891 1.646 1.262 2.811l33.704 105.437z" fill="#DB362D" />
-</svg>
-
-<img src="https://im.vsco.co/aws-us-west-2/12f8b0/56497/600b63321d78311648000003/vsco600b633468109.jpg" />
-
-# The “IT” GIRLS 💗💅🏽| A Kinigra Deon Original
-[book with same title](https://www.amazon.com/Girls-Novel-Karen-Harper/dp/0062567772) [LightboxViewer](https://youtu.be/gbOlCyQ4Hr8?si=pKj80MmOTMhRvsRa) [Kinigra Deon](https://www.youtube.com/@KinigraDeon) [Kinigra TiKTOK](https://www.tiktok.com/@kinigradeon?lang=en) [KinigRa on @twitter](https://x.com/kinigra?lang=en) @nasa-jpl this is one of the girls from atlanta(ish) that need protection digitally @blackgirlscode she made a movie an she know coral~
-<iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/c_AqZMlbm4c?si=WzsKwYmFkxrk-u2G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
-
-[resized](https://red-route.org/code/image-layout-size-calculator)
-
-
-![RiCoTHAKA/LinuXKerneL](https://pbs.twimg.com/media/GjOh-70aQAMkraB?format=jpg&name=large)
-[LinuX KErnel Repo](https://x.com/thakasartu/status/1888030971414594018) [ricoThaka/linux/tree/master](https://github.com/ricoThaka/linux/tree/master)
-
-
-<img  alt="image" src="https://github.com/user-attachments/assets/b955129f-8452-427b-8df8-d9d0b74e3508" />
-
-<img alt="image" src="https://github.com/user-attachments/assets/3b6351f1-844d-44fa-9126-bfc470a7990c" />
 
 
 <iframe src="https://archive.org/embed/California_LinuxTracersUsbPickpockets" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>

@@ -17,9 +17,15 @@ mermaid: true
    
  </div> 
 
- [<img src="https://web.archive.org/web/20060104192812im_/http://mars.jpl.nasa.gov/mro/images/mro_banner.jpg">]( https://web.archive.org/web/20060108092026/http://mars.jpl.nasa.gov/mro/)
+[<img src="https://web.archive.org/web/20060104192812im_/http://mars.jpl.nasa.gov/mro/images/mro_banner.jpg">]( https://web.archive.org/web/20060108092026/http://mars.jpl.nasa.gov/mro/)
 ### [Mars Reconnaissance Orbiter](https://hirise-pds.lpl.arizona.edu/PDS/CATALOG/MISSION.CAT) : [Mission Objectives](https://www.google.com/logos/doodles/2025/fourth-of-july-2025-6753651837110704-2x.png) NASA's Mars Reconnaissance Orbiter searches for evidence that water persisted on the surface of Mars for a long period of time. [ReadMore](https://science.nasa.gov/mission/mars-reconnaissance-orbiter/) 
 
+@CityOfLosAngeles @la-county-isd @stateofcalifornia 
+Hi Its [Rashard iMan Kelly](https://github.com/rashardnasalosangelesJPL/rashardnasalosangelesJPL.github.io/blob/master/README.md) of Nasa [Ecostress](https://ecostress.jpl.nasa.gov/) / MRO / JUNO . . 
+Check out [Lbtv](https://www.lbtv3.com/) @Blackgirlscode if someone can speak up for me, im emailing Supervisor Holly Mitchell and Mayor Karen bass via big public groups to communicate this task . I need all the bunnies that are not treasonus to clear my name for a library card and give me instructions on how to access a computer as a user that is not into pronography or hooking up for internet sex 
+
+# California_Linux : RiverDataLosAngeles Exploring Ecostress, Emit, Aviris, SWOT, and Sentinel DataProducts - RashardNasaEarthData [Link](https://archive.org/details/RashardNasaEarthDataRiverWatch)
+[archive - Mars Geology Imaging](https://archive.org/details/mars-geology-imaging-gifs)
 <img alt="image" src="https://github.com/user-attachments/assets/bcc4dd7b-4e9b-4a8a-b930-6d8c8e7df4f0" />
 
 

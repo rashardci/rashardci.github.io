@@ -6,12 +6,6 @@ mermaid: true
 
 # Currently Compling  `jekyll.version`  {{ jekyll.version }}
 
-@nasa This site can’t be reached
-https://firms.modaps.eosdis.nasa.gov/map/ is unreachable.
-ERR_ADDRESS_UNREACHABLE
-: [Mission Objectives](https://www.google.com/logos/doodles/2025/fourth-of-july-2025-6753651837110704-2x.png) NASA's Mars Reconnaissance Orbiter searches for evidence that water persisted on the surface of Mars for a long period of time. [ReadMore](https://science.nasa.gov/mission/mars-reconnaissance-orbiter/) 
-Rashard Kelly Nas[a](https://www.cia.gov/careers/)Jpl MRO [JUNO](https://naif.jpl.nasa.gov/pub/naif/pds/data/jno-j_e_ss-spice-6-v1.0/jnosp_1000/catalog/mission.cat) [+](https://naif.jpl.nasa.gov/pub/naif/pds/data/jno-j_e_ss-spice-6-v1.0/jnosp_1000/catalog/mission.cat) iS[S](https://www.usgovernmentmanual.gov/Agency?EntityId=VSLfQ4vlJ2o=&ParentEId=+klubNxgV0o=&EType=jY3M4CTKVHY=) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ThakaRashard/rashardmro.git/HEAD) ![Build Status](https://github.com/jekyll/jekyll/workflows/Continuous%20Integration/badge.svg) ![Gem Version](https://img.shields.io/gem/v/jekyll.svg) [emit](https://earth.jpl.nasa.gov/emit/) [genesisReturn](https://ssd.jpl.nasa.gov/api/horizons.api?format=text&COMMAND=%27-47900%27&OBJ_DATA=%27YES%27&MAKE_EPHEM=%27YES%27&EPHEM_TYPE=%27OBSERVER%27&CENTER=%27500@399%27&START_TIME=%272006-01-01%27&STOP_TIME=%272006-01-20%27&STEP_SIZE=%271%20d%27&QUANTITIES=%271,9,20,23,24,29%27)
-
 <div class="box">
 
   {% for post in site.posts %}
@@ -22,6 +16,65 @@ Rashard Kelly Nas[a](https://www.cia.gov/careers/)Jpl MRO [JUNO](https://naif.jp
   {% endfor %}
    
  </div> 
+
+ [<img src="https://web.archive.org/web/20060104192812im_/http://mars.jpl.nasa.gov/mro/images/mro_banner.jpg">]( https://web.archive.org/web/20060108092026/http://mars.jpl.nasa.gov/mro/)
+### [Mars Reconnaissance Orbiter](https://hirise-pds.lpl.arizona.edu/PDS/CATALOG/MISSION.CAT) : [Mission Objectives](https://www.google.com/logos/doodles/2025/fourth-of-july-2025-6753651837110704-2x.png) NASA's Mars Reconnaissance Orbiter searches for evidence that water persisted on the surface of Mars for a long period of time. [ReadMore](https://science.nasa.gov/mission/mars-reconnaissance-orbiter/) 
+
+<img alt="image" src="https://github.com/user-attachments/assets/bcc4dd7b-4e9b-4a8a-b930-6d8c8e7df4f0" />
+
+
+<object class="scroller" data="https://eyes.nasa.gov/apps/solar-system/#/sc_mars_reconnaissance_orbiter" type="text/html"></object>
+
+# AnimalFarm 1954
+
+
+[imdb](https://www.imdb.com/title/tt0047834/) : [Wiki](https://en.wikipedia.org/wiki/Animal_Farm_(1954_film)) : [Archive](https://archive.org/details/animalfarm1954_20190809) : [:yt:](https://www.youtube.com/watch?v=CKJvwWyq2z0) : [🛒](https://www.amazon.com/Animal-Farm-Gordon-Heath/dp/B0002ZYDUG) : [@reddit](https://www.reddit.com/r/classicfilms/comments/1gjzpjd/animal_farm_1954/) : [🍅](https://www.rottentomatoes.com/m/animal_farm) 
+
+<video controls  poster="https://upload.wikimedia.org/wikipedia/commons/5/5b/Animal_Farm_strip_cartoon.jpg">>
+
+    
+  <source src="https://dn721906.ca.archive.org/0/items/animalfarm1954_20190809/Animal%20Farm%201954.mp4" type="video/mp4" />
+  <source src="https://archive.org/download/animalfarm1954_20190809/Animal%20Farm%201954.mp4" type="video/mp4" />
+
+  Download the
+
+  <a href="https://archive.org/download/animalfarm1954_20190809/Animal%20Farm%201954.mp4">MP4</a>
+  video.
+</video>
+
+
+<div class="box">
+
+  {% for post in site.posts %}
+     
+<a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">{{ post.title }}</a>
+  
+     
+  {% endfor %}
+   
+ </div> 
+ 
+## California_Linux[:](https://www.iso.org/iso-8601-date-and-time-format.html) 
+<iframe src="https://archive.org/embed/commitmentmaintenance" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe> 
+### Books
+
+[How to compete for NASA contracts @blackgirlscode](https://ntrs.nasa.gov/api/citations/19930021455/downloads/19930021455.pdf)
+
+[Uplink-Downlink A History of the Deep Space Network 1957–1997](https://www.nasa.gov/wp-content/uploads/2023/04/sp-4227.pdf)
+
+[Deep Space Telecommunications Systems Engineering 1982](https://ntrs.nasa.gov/api/citations/19830013955/downloads/19830013955.pdf)
+
+[Read You Loud and Clear!](https://ntrs.nasa.gov/api/citations/20080020389/downloads/20080020389.pdf)
+The Story of NASA's Spaceflight Tracking and Data Network
+
+[Satellite Data Explorer](https://csdap.earthdata.nasa.gov/) 
+@nasa This site can’t be reached
+https://firms.modaps.eosdis.nasa.gov/map/ is unreachable.
+ERR_ADDRESS_UNREACHABLE
+: [Mission Objectives](https://www.google.com/logos/doodles/2025/fourth-of-july-2025-6753651837110704-2x.png) NASA's Mars Reconnaissance Orbiter searches for evidence that water persisted on the surface of Mars for a long period of time. [ReadMore](https://science.nasa.gov/mission/mars-reconnaissance-orbiter/) 
+Rashard Kelly Nas[a](https://www.cia.gov/careers/)Jpl MRO [JUNO](https://naif.jpl.nasa.gov/pub/naif/pds/data/jno-j_e_ss-spice-6-v1.0/jnosp_1000/catalog/mission.cat) [+](https://naif.jpl.nasa.gov/pub/naif/pds/data/jno-j_e_ss-spice-6-v1.0/jnosp_1000/catalog/mission.cat) iS[S](https://www.usgovernmentmanual.gov/Agency?EntityId=VSLfQ4vlJ2o=&ParentEId=+klubNxgV0o=&EType=jY3M4CTKVHY=) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ThakaRashard/rashardmro.git/HEAD) ![Build Status](https://github.com/jekyll/jekyll/workflows/Continuous%20Integration/badge.svg) ![Gem Version](https://img.shields.io/gem/v/jekyll.svg) [emit](https://earth.jpl.nasa.gov/emit/) [genesisReturn](https://ssd.jpl.nasa.gov/api/horizons.api?format=text&COMMAND=%27-47900%27&OBJ_DATA=%27YES%27&MAKE_EPHEM=%27YES%27&EPHEM_TYPE=%27OBSERVER%27&CENTER=%27500@399%27&START_TIME=%272006-01-01%27&STOP_TIME=%272006-01-20%27&STEP_SIZE=%271%20d%27&QUANTITIES=%271,9,20,23,24,29%27)
+
+
 
 {{ site.url }}
 {{ site.baseurl }}
@@ -116,16 +169,11 @@ I address my conflict at [iOnic_Security](https://archive.org/download/commitmen
 
 ![playBall](https://www.google.com/logos/doodles/2025/mlb-fall-classic-2025-6753651837110842.2-sdrk.png)
 
-Nor[mani](https://youtu.be/OKg6oJbhY3s?si=thR4_JHrADmBj8fj) maybe dwayne was an undercover The Secretary of the Navy Bill Nelson The Office of the Chief of Naval Operations NASA Science Congressmember Karen Bass Normani i thought he was in a sexual relationship with our manager bc he said ethiopian girls are hard to get, an asked if i was into blackplanet for fuckkin bitchiz Nicki Minaj and after muna died he said people are always dying around you Canonical Red Hat Summit they were running #jenkins on #Ubuntu_14_04 and it was end of life so if its not being supported its not ubuntu if used in that context of a security company for outgoing communication  @nasa-jpl Goldstone Deep Space Communications Complex thats y i threw  a tantrum! ABC7 Morning Show Mori & Associates NASA Astronaut Jonny Kim Congressmember Karen Bass the operating system maintenace was dangerous for any admins reputation, #Dwayne is Black from #D_C and was competative with me , boppin in the office listening to 2 Chainz im a child and the neighborhood [dance academy](https://youtu.be/XZD8U6BUUwA?si=qOWhtElevdRj5Ou0) ; [Dance411](https://www.youtube.com/@Dance411) says we should [dance](https://youtu.be/8RGUavirXbQ?si=GB-G-lYHJQGKkdaX) to [everyone](https://youtu.be/v5gBfbz-M24?si=X93Nm5V8_3wGNJQI) in the community, thats some [#PineSolCamelKoolPimPRap](https://www.youtube.com/watch?v=tU3p6mz-uxU0)! Lindsey Horvath Laurie Leshin ExploreAstro at Caltech/IPAC NASA's Perseverance Mars Rover i listened an i like new beats but he was looking for a strip club partner Jada Pinkett Smith is will in the military ? National Museum of the Marine Corps [saturday choreo](https://youtu.be/MpEDwup5O3M?si=XuBKRY3Gflw07XKw)
-
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0dQFMMP13Dxv6UudfnHjP2q8XyP7Q9RTNNuf7Cmh85xfC8CUbSTVJ96ikTQvV2aTel%26id%3D100084464911565&show_text=true&width=500" width="500" height="723" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+Nor[mani](https://youtu.be/OKg6oJbhY3s?si=thR4_JHrADmBj8fj) maybe dwayne was an undercover The Secretary of the Navy Bill Nelson The Office of the Chief of Naval Operations NASA Science Congressmember Karen Bass Normani i thought he was in a sexual relationship with our manager bc he said ethiopian girls are hard to get, an asked if i was into blackplanet for fuckkin bitchiz Nicki Minaj and after muna died he said people are always dying around you Canonical Red Hat Summit they were running #jenkins on #Ubuntu_14_04 and it was end of life so if its not being supported its not ubuntu if used in that context of a security company for outgoing communication  @nasa-jpl Goldstone Deep Space Communications Complex thats y i threw  a tantrum! ABC7 Morning Show Mori & Associates NASA Astronaut Jonny Kim Congressmember Karen Bass the operating system maintenace was dangerous for any admins reputation, #Dwayne is Black from #D_C and was competative with me , boppin in the office listening to 2 Chainz im a child and the neighborhood [dance academy](https://youtu.be/XZD8U6BUUwA?si=qOWhtElevdRj5Ou0) ; [Dance411](https://www.youtube.com/@Dance411) says we should [dance](https://youtu.be/8RGUavirXbQ?si=GB-G-lYHJQGKkdaX) to [everyone](https://youtu.be/v5gBfbz-M24?si=X93Nm5V8_3wGNJQI) in the community, thats some [#PineSolCamelKoolPimPRap](https://www.youtube.com/watch?v=tU3p6mz-uxU0)! Lindsey Horvath Laurie Leshin ExploreAstro at Caltech/IPAC NASA's Perseverance Mars Rover i listened an i like new beats but he was looking for a strip club partner Jada Pinkett Smith is will in the military ? National Museum of the Marine Corps [saturday choreo](https://y
 
 ![@blackgirlscode `learn_logging`](https://dev.splunk.com/developer-program/assets/images/dark/Logo.svg)
 [https://dev.splunk.com OR dev.splunk.com](https://dev.splunk.com/)
 ![@splunk @nasa-jpl](https://dev.splunk.com/developer-program/assets/images/dark/WelcomeLogo.svg) 
-
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0fRYHvHE68aSdVT13e7WK2HG8nNxESURYhJmft4o8xnHpyE3Ko33dyWwpioq8R8rYl%26id%3D100084464911565&show_text=true&width=500" width="500" height="965" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
-
 
 ![NEOGEO @libretro](https://ia801202.us.archive.org/34/items/2020-super-baseball-ccm/2020%20Super%20Baseball%20-%20Cartridge%20-%20Top.jpg) 
 [2020 Super Baseball (set 3)](https://www.retrogames.cc/arcade-games/2020-super-baseball-set-3.html) / [snes](https://nintendo.fandom.com/wiki/Super_Baseball_2020) : [wiki](https://strategywiki.org/wiki/File:Super_Baseball_2020_US_Genesis_box.jpg) [*](https://wiki.neogeodev.org/index.php?title=2020_Super_Baseball) : [pedia](https://en.wikipedia.org/wiki/Super_Baseball_2020)
@@ -158,42 +206,8 @@ Rashard Kelly Nas[a](https://www.cia.gov/careers/)Jpl MRO [JUNO](https://naif.jp
 <img  alt="image" src="https://github.com/user-attachments/assets/c0ecd138-5a3e-4396-a4d1-dcc93c262b1e" />
 
 hi @nasa-jpl @nasa-develp @nasa @whitehouse its a checking @blackgirlscode
-[<img src="https://web.archive.org/web/20060104192812im_/http://mars.jpl.nasa.gov/mro/images/mro_banner.jpg">]( https://web.archive.org/web/20060108092026/http://mars.jpl.nasa.gov/mro/)
-### [Mars Reconnaissance Orbiter](https://hirise-pds.lpl.arizona.edu/PDS/CATALOG/MISSION.CAT) : [Mission Objectives](https://www.google.com/logos/doodles/2025/fourth-of-july-2025-6753651837110704-2x.png) NASA's Mars Reconnaissance Orbiter searches for evidence that water persisted on the surface of Mars for a long period of time. [ReadMore](https://science.nasa.gov/mission/mars-reconnaissance-orbiter/) 
-
-<img alt="image" src="https://github.com/user-attachments/assets/bcc4dd7b-4e9b-4a8a-b930-6d8c8e7df4f0" />
 
 
-<object class="scroller" data="https://eyes.nasa.gov/apps/solar-system/#/sc_mars_reconnaissance_orbiter" type="text/html"></object>
-
-# AnimalFarm 1954
-
-
-[imdb](https://www.imdb.com/title/tt0047834/) : [Wiki](https://en.wikipedia.org/wiki/Animal_Farm_(1954_film)) : [Archive](https://archive.org/details/animalfarm1954_20190809) : [:yt:](https://www.youtube.com/watch?v=CKJvwWyq2z0) : [🛒](https://www.amazon.com/Animal-Farm-Gordon-Heath/dp/B0002ZYDUG) : [@reddit](https://www.reddit.com/r/classicfilms/comments/1gjzpjd/animal_farm_1954/) : [🍅](https://www.rottentomatoes.com/m/animal_farm) 
-
-<video controls  poster="https://upload.wikimedia.org/wikipedia/commons/5/5b/Animal_Farm_strip_cartoon.jpg">>
-
-    
-  <source src="https://dn721906.ca.archive.org/0/items/animalfarm1954_20190809/Animal%20Farm%201954.mp4" type="video/mp4" />
-  <source src="https://archive.org/download/animalfarm1954_20190809/Animal%20Farm%201954.mp4" type="video/mp4" />
-
-  Download the
-
-  <a href="https://archive.org/download/animalfarm1954_20190809/Animal%20Farm%201954.mp4">MP4</a>
-  video.
-</video>
-
-
-<div class="box">
-
-  {% for post in site.posts %}
-     
-    <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">{{ post.title }}</a>
-  
-     
-  {% endfor %}
-   
- </div> 
 
 
 ## California_Linux[:](https://www.iso.org/iso-8601-date-and-time-format.html) 

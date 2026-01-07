@@ -20,6 +20,10 @@ mermaid: true
 [<img src="https://web.archive.org/web/20060104192812im_/http://mars.jpl.nasa.gov/mro/images/mro_banner.jpg">]( https://web.archive.org/web/20060108092026/http://mars.jpl.nasa.gov/mro/)
 ### [Mars Reconnaissance Orbiter](https://hirise-pds.lpl.arizona.edu/PDS/CATALOG/MISSION.CAT) : [Mission Objectives](https://www.google.com/logos/doodles/2025/fourth-of-july-2025-6753651837110704-2x.png) NASA's Mars Reconnaissance Orbiter searches for evidence that water persisted on the surface of Mars for a long period of time. [ReadMore](https://science.nasa.gov/mission/mars-reconnaissance-orbiter/) 
 
+
+@karenBass [StyleWars](https://archive.org/download/style-wars_1983/STYLE_WARS_%281983%29/Style%20Wars%20-%20legendary%20graffiti%20documentary%20%281983%29.mp4) @blackgirlscode @Cityoflosangeles missing kids 
+[itwaslive](https://vimeo.com/396000267?fl=pl&fe=sh) @abc7 @datadesk @cbs-news-data ask [@blackgirlscode](https://vimeo.com/396000267?fl=pl&fe=sh) @la-county-isd @lacounty-isab @webb
+
 @CityOfLosAngeles @la-county-isd @stateofcalifornia 
 Hi Its [Rashard iMan Kelly](https://github.com/rashardnasalosangelesJPL/rashardnasalosangelesJPL.github.io/blob/master/README.md) of Nasa [Ecostress](https://ecostress.jpl.nasa.gov/) / MRO / JUNO . . 
 Check out [Lbtv](https://www.lbtv3.com/) @Blackgirlscode if someone can speak up for me, im emailing Supervisor Holly Mitchell and Mayor Karen bass via big public groups to communicate this task . I need all the bunnies that are not treasonus to clear my name for a library card and give me instructions on how to access a computer as a user that is not into pronography or hooking up for internet sex 

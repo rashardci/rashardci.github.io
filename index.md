@@ -20,6 +20,10 @@ mermaid: true
 [<img src="https://web.archive.org/web/20060104192812im_/http://mars.jpl.nasa.gov/mro/images/mro_banner.jpg">]( https://web.archive.org/web/20060108092026/http://mars.jpl.nasa.gov/mro/)
 ### [Mars Reconnaissance Orbiter](https://hirise-pds.lpl.arizona.edu/PDS/CATALOG/MISSION.CAT) : [Mission Objectives](https://www.google.com/logos/doodles/2025/fourth-of-july-2025-6753651837110704-2x.png) NASA's Mars Reconnaissance Orbiter searches for evidence that water persisted on the surface of Mars for a long period of time. [ReadMore](https://science.nasa.gov/mission/mars-reconnaissance-orbiter/) 
 
+<img   alt="image" src="https://github.com/user-attachments/assets/dcc357b3-e8ca-4344-9e8d-478e35091fb9" />
+@cityoflosangeles @la-county-isd this is my area to keep the iss updated with what im upto [https://rashard-podaac-jpl-iss-mro-juno.github.io/rashard-ecostress-jpl-iss.github.io/](https://rashard-podaac-jpl-iss-mro-juno.github.io/rashard-ecostress-jpl-iss.github.io/) @blackgirlscode 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/b008911b-6620-4c49-8ec8-420b26935afe" />
 
 @karenBass [StyleWars](https://archive.org/download/style-wars_1983/STYLE_WARS_%281983%29/Style%20Wars%20-%20legendary%20graffiti%20documentary%20%281983%29.mp4) @blackgirlscode @Cityoflosangeles missing kids 
 [itwaslive](https://vimeo.com/396000267?fl=pl&fe=sh) @abc7 @datadesk @cbs-news-data ask [@blackgirlscode](https://vimeo.com/396000267?fl=pl&fe=sh) @la-county-isd @lacounty-isab @webb
@@ -948,8 +952,9 @@ Please understand im finding out who my responsible relatives are and i work wit
 <img src="https://winworldpc.com/res/img/screenshots/final-65d6e19fecb4b8ad90d02178bbce0dd6-w2kboot.png">
 # Compiling
 
+```
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0yuVME9zLWRVyabRtgR93KFLcQWafv13Md4amSyPsRr4m8gdxsozVX4AuL1GR8ENFl%26id%3D100084464911565&show_text=true&width=500" width="500" height="597" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
-
+```
 @nasa-jpl i hope this makes it through, its another [WeatherReport on @codepen](https://codepen.io/RashardKElly/pen/YPyXNBa) @TheSpaceDevs The archive [California_Morning; Monday July 14](https://archive.org/details/vid-20250714-084801) has a zip with [NasaGiovanni](https://giovanni.gsfc.nasa.gov/giovanni/) _ [plots](https://github.com/ThakaRashard/rashardmro/tree/master/assets/pl0ts) in a zip file named [splashdownweather.zip](https://archive.org/download/vid-20250714-084801/splashdownweather.zip) @cityoflosangeles @stateofcalifornia we need to alert all law enforce ment of [TheSplashdown](https://www.nasa.gov/news-release/nasa-to-provide-coverage-of-axiom-mission-4-departure-from-station/) and beware of [california](https://www.justice.gov/usao-cdca/pr/four-southern-california-men-arrested-charges-alleging-they-kidnapped-migrants-and) [poachers](https://wildlife.ca.gov/Enforcement/CalTIP) to make sure they get to [The Lab](https://www.nasa.gov/news-release/nasa-partners-to-welcome-fourth-axiom-space-mission-to-space-station/) or [AirForce base](https://www.losangeles.spaceforce.mil/), whatever applies safely
 -[KidnappingLaw @StateOfCalifornia](https://www.kannlawoffice.com/kidnapping.html) :: @blackgirlscode, goodluck with [The Splashdown](https://www.floridatoday.com/story/tech/science/space/2025/07/14/axiom-spacex-splashdown-california-how-watch-nasa/85189399007/) i dont know how ot track the object! :( 
 
@@ -1661,9 +1666,11 @@ DEF CON 16 - Fyodor: Nmap: Scanning the Internet [download](https://media.defcon
 </div>
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/2092984536&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/nasa" title="NASA" target="_blank" style="color: #cccccc; text-decoration: none;">NASA</a> · <a href="https://soundcloud.com/nasa/houston-we-have-a-podcast-natural-disaster-response" title="Houston We Have a Podcast: Natural Disaster Response" target="_blank" style="color: #cccccc; text-decoration: none;">Houston We Have a Podcast: Natural Disaster Response</a></div>
+
+ ```
    <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FCaptainOfJoy%2Fposts%2Fpfbid02RZEEidy2v57yZEmYauJAoGeED3LQyrboPghJNHW6sC67VrBNYG12frAQJzhVHnFGl&show_text=true&width=500" width="500" height="450" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
-
+```
 
 
 # UnixinG_Android 

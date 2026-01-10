@@ -21,6 +21,33 @@ mermaid: true
 ### [Mars Reconnaissance Orbiter](https://hirise-pds.lpl.arizona.edu/PDS/CATALOG/MISSION.CAT) : [Mission Objectives](https://www.google.com/logos/doodles/2025/fourth-of-july-2025-6753651837110704-2x.png) NASA's Mars Reconnaissance Orbiter searches for evidence that water persisted on the surface of Mars for a long period of time. [ReadMore](https://science.nasa.gov/mission/mars-reconnaissance-orbiter/) 
 
 
+[OPERA Radiometric Terrain Corrected SAR Backscatter from Sentinel-1 validated product (Version 1)](https://www.earthdata.nasa.gov/data/catalog/asf-opera-l2-rtc-s1-v1-1) @asfadmin [Holly J Mitchell]() / [Lindsey Horavath]() / [TRACi_PARK]() |> [LOSANGELES](https://worldview.earthdata.nasa.gov/?v=-120.9543727377381,31.712352053321634,-115.7058907089119,35.631218634845204&l=Reference_Labels_15m(hidden),Reference_Features_15m(hidden),Coastlines_15m,OPERA_L2_Radiometric_Terrain_Corrected_SAR_Sentinel-1,OPERA_L3_Dynamic_Surface_Water_Extent-Sentinel-1(disabled=5),OPERA_L3_Dynamic_Surface_Water_Extent-HLS(disabled=5),OPERA_L3_DIST-ALERT-HLS_Color_Index(disabled=9),OCI_PACE_True_Color(hidden),VIIRS_NOAA21_CorrectedReflectance_TrueColor(hidden),VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor&lg=true&t=2026-01-10-T20%3A59%3A50Z) <| @blackgirlscode 
+
+<img   alt="image" src="https://github.com/user-attachments/assets/dcc357b3-e8ca-4344-9e8d-478e35091fb9" />
+
+OPERA Radiometric Terrain Corrected SAR Backscatter (False Color)
+×
+Temporal Coverage: 2025 JAN 31 - Present*View Dates
+The OPERA Radiometric Terrain Corrected SAR Backscatter from Sentinel-1 (RTC-S1) is a Level-2 (L2) product. It provides terrain-corrected radar images with a 30-meter pixel spacing and a temporal resolution of a few days to weeks on average, depending on the location. Each RTC-S1 product is derived from a Sentinel-1 Interferometric Wide (IW) Single-Look Complex (SLC) burst, provided by the European Space Agency (ESA). Synthetic aperture radar (SAR) images deliver all-weather, day-and-night, imaging of the Earth’s surface.
+
+RTC-S1 images are displayed in false-color for better visual interpretation of the SAR backscatter data. The false-color RGB visualization combines both co-polarized VV (vertical transmit vertical receive) or HH (horizontal transmit horizontal receive) backscatter values (red and blue) with cross-polarized VH or HV values (green) to generate a color image from SAR data. In this false-color scale, vegetated areas appear green; urban and/or sparsely vegetated areas appear white/pink; calm water, dry sand, and frozen ground appears black; and rough water appears purple or magenta. Note there are other land covers not listed that may have similar appearance and it is recommended that users consult auxiliary datasets to help determine the land cover of interest.
+
+The OPERA RTC-S1 product contains modified Copernicus Sentinel data corresponding to the same time period of the OPERA RTC-S1 product. The organizations in charge of the OPERA project and the Copernicus programme by law or by delegation do not assume any legal responsibility or liability, whether express or implied, arising from the use of this product. Users, including those who redistribute, adapt, modify, or combine RTC-S1 data, must comply with the terms of the Copernicus Sentinel Data License Agreement.
+
+The OPERA RTC-S1 product is produced by the Observational Products for End-Users from Remote Sensing Analysis (OPERA) project. The OPERA project, managed by the Jet Propulsion Laboratory and funded by the Satellite Needs Working Group (SNWG), creates remote sensing products to address Earth observation needs across U.S. civilian federal agencies.
+
+References: doi:10.5067/SNWG/OPERA_L2_RTC-S1_V1
+
+
+## Surface Water
+[Link](https://worldview.earthdata.nasa.gov/?v=-119.16404987362662,33.36467736657348,-116.88496212290443,34.4959120678434&l=Reference_Labels_15m(hidden),Reference_Features_15m(hidden),Coastlines_15m,OPERA_L3_Dynamic_Surface_Water_Extent-Sentinel-1(opacity=0.43,disabled=5),OPERA_L3_Dynamic_Surface_Water_Extent-HLS(disabled=5),OPERA_L2_Radiometric_Terrain_Corrected_SAR_Sentinel-1,OPERA_L3_DIST-ALERT-HLS_Color_Index(disabled=9),OCI_PACE_True_Color(hidden),VIIRS_NOAA21_CorrectedReflectance_TrueColor(hidden),VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor&lg=true&t=2026-01-10-T20%3A59%3A50Z) @ESA @Washingtonpost @datadesk @CALTECH @LA-county-isd
+<img  alt="image" src="https://github.com/user-attachments/assets/e9349728-ca6f-4ac1-b4b2-d1b15abfac32" />
+
+@cityoflosangeles @la-county-isd this is my area to keep the iss updated with what im upto
+[https://rashard-podaac-jpl-iss-mro-juno.github.io/rashard-ecostress-jpl-iss.github.io/](https://rashard-podaac-jpl-iss-mro-juno.github.io/rashard-ecostress-jpl-iss.github.io/) @blackgirlscode 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/b008911b-6620-4c49-8ec8-420b26935afe" />
+
 @karenBass [StyleWars](https://archive.org/download/style-wars_1983/STYLE_WARS_%281983%29/Style%20Wars%20-%20legendary%20graffiti%20documentary%20%281983%29.mp4) @blackgirlscode @Cityoflosangeles missing kids 
 [itwaslive](https://vimeo.com/396000267?fl=pl&fe=sh) @abc7 @datadesk @cbs-news-data ask [@blackgirlscode](https://vimeo.com/396000267?fl=pl&fe=sh) @la-county-isd @lacounty-isab @webb
 
@@ -948,8 +975,9 @@ Please understand im finding out who my responsible relatives are and i work wit
 <img src="https://winworldpc.com/res/img/screenshots/final-65d6e19fecb4b8ad90d02178bbce0dd6-w2kboot.png">
 # Compiling
 
+```
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0yuVME9zLWRVyabRtgR93KFLcQWafv13Md4amSyPsRr4m8gdxsozVX4AuL1GR8ENFl%26id%3D100084464911565&show_text=true&width=500" width="500" height="597" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
-
+```
 @nasa-jpl i hope this makes it through, its another [WeatherReport on @codepen](https://codepen.io/RashardKElly/pen/YPyXNBa) @TheSpaceDevs The archive [California_Morning; Monday July 14](https://archive.org/details/vid-20250714-084801) has a zip with [NasaGiovanni](https://giovanni.gsfc.nasa.gov/giovanni/) _ [plots](https://github.com/ThakaRashard/rashardmro/tree/master/assets/pl0ts) in a zip file named [splashdownweather.zip](https://archive.org/download/vid-20250714-084801/splashdownweather.zip) @cityoflosangeles @stateofcalifornia we need to alert all law enforce ment of [TheSplashdown](https://www.nasa.gov/news-release/nasa-to-provide-coverage-of-axiom-mission-4-departure-from-station/) and beware of [california](https://www.justice.gov/usao-cdca/pr/four-southern-california-men-arrested-charges-alleging-they-kidnapped-migrants-and) [poachers](https://wildlife.ca.gov/Enforcement/CalTIP) to make sure they get to [The Lab](https://www.nasa.gov/news-release/nasa-partners-to-welcome-fourth-axiom-space-mission-to-space-station/) or [AirForce base](https://www.losangeles.spaceforce.mil/), whatever applies safely
 -[KidnappingLaw @StateOfCalifornia](https://www.kannlawoffice.com/kidnapping.html) :: @blackgirlscode, goodluck with [The Splashdown](https://www.floridatoday.com/story/tech/science/space/2025/07/14/axiom-spacex-splashdown-california-how-watch-nasa/85189399007/) i dont know how ot track the object! :( 
 
@@ -1661,9 +1689,11 @@ DEF CON 16 - Fyodor: Nmap: Scanning the Internet [download](https://media.defcon
 </div>
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/2092984536&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/nasa" title="NASA" target="_blank" style="color: #cccccc; text-decoration: none;">NASA</a> · <a href="https://soundcloud.com/nasa/houston-we-have-a-podcast-natural-disaster-response" title="Houston We Have a Podcast: Natural Disaster Response" target="_blank" style="color: #cccccc; text-decoration: none;">Houston We Have a Podcast: Natural Disaster Response</a></div>
+
+ ```
    <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FCaptainOfJoy%2Fposts%2Fpfbid02RZEEidy2v57yZEmYauJAoGeED3LQyrboPghJNHW6sC67VrBNYG12frAQJzhVHnFGl&show_text=true&width=500" width="500" height="450" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
-
+```
 
 
 # UnixinG_Android 

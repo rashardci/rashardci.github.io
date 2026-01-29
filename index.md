@@ -20,6 +20,201 @@ mermaid: true
 [<img src="https://web.archive.org/web/20060104192812im_/http://mars.jpl.nasa.gov/mro/images/mro_banner.jpg">]( https://web.archive.org/web/20060108092026/http://mars.jpl.nasa.gov/mro/)
 ### [Mars Reconnaissance Orbiter](https://hirise-pds.lpl.arizona.edu/PDS/CATALOG/MISSION.CAT) : [Mission Objectives](https://www.google.com/logos/doodles/2025/fourth-of-july-2025-6753651837110704-2x.png) NASA's Mars Reconnaissance Orbiter searches for evidence that water persisted on the surface of Mars for a long period of time. [ReadMore](https://science.nasa.gov/mission/mars-reconnaissance-orbiter/) 
 
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/58ClQr29vxsXM4IlpgvSWO?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+@nasa-jpl im working on some online learning, ill be back to arset . . . i need to knock some of these out . . . Im learning CommandLineGit simultaneously @git @blackgirlscode rostered @la-county-isd [HollyJMitCHELL](https://nul.org/news/sen-holly-j-mitchell-why-im-leading-charge-against-natural-hair-discrimination-america) @officialredhat [LearningLAb](https://www.redhat.com/en/services/training/learning-subscription?sc_cid=RHCTN0240000419312&gclsrc=aw.ds&gad_source=1&gad_campaignid=20731743748&gbraid=0AAAAADsbVMSAMpiWnJRhREbYNMw9GiC_8&gclid=Cj0KCQiAhOfLBhCCARIsAJPiopOM7U0RZbiuq9_2mVaNCJnmxj96OLeu4aXajJ-iHLFP_ofUpG9vHmYaAkz6EALw_wcB) @podaac @nasa @stateofcalifornia @nasa-pds
+
+<div class="tupperware">
+
+<img  alt="image" src="https://github.com/user-attachments/assets/ea962b48-c7fa-4a28-b853-d39034eea6fa" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/d6547456-191b-4bd2-8f1a-2eb3e1effad0" />
+
+</div>
+
+GM @blackgirlscode [LatriceFitzPatrick](https://www.facebook.com/thevirtiservway/), btw your results changed and i dont see you in your business suit in my [@google](https://www.google.com/search?q=latrice+fitzpatrick+virtiserv&rlz=1C1GCEJ_enUS1199US1199&oq=latrice+fit&gs_lcrp=EgZjaHJvbWUqCAgAEEUYJxg7MggIABBFGCcYOzIGCAEQRRg5MgYIAhAjGCcyBggDEEUYOzIGCAQQRRg7MgYIBRBFGEAyBggGEEUYPDIGCAcQRRg90gEIMjQyOWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8) results. Its less distracting, but i cant say i dont miss seeing your glory my queen, dismiss me please, you bout to hurt me, i still have not shaved as you requested and i need some confirmation ok! @mdn is a good resource for you guys @howard-university-web-services, if normani is still on that radio share thing tell her im listening to [weFunk](https://www.wefunkradio.com/radio/play)
+[HowardWebStandards](https://ouc.howard.edu/our-services/web-innovation-strategy/web-best-practices-guidelines) [MoZiLLADev](https://developer.mozilla.org/en-US/) and also [FireFox](https://www.firefox.com/en-US/browsers/desktop/linux/) [[1](https://support.mozilla.org/en-US/kb/install-firefox-linux) is our standard browser @nasa-jpl, we build it using [SunCompilers](https://docs.oracle.com/cd/E19205-01/820-3999/) [android](https://www.firefox.com/en-US/browsers/mobile/android/) : [Nightly](https://play.google.com/store/apps/details?id=org.mozilla.fenix&hl=en_US) [beta](https://www.firefox.com/en-US/channel/android/) ... @la-county-isd @CityOfLosAngeles @StateOfCalifornia just a little insight into our infrastructure @podaac @nasa-jpl /// @nasa-develop @Nasa-giss [`LATRiCE!`](https://bniamerica.com/en-US/memberdetails?encryptedMemberId=cAnVY1kMmNXzBZUYVJ2Q3g%3D%3D&cmsv3=true&name=LaTrice+Fitzpatrick) please follow [The Small Business Administration](https://www.sba.gov/) on [Github](https://github.com/USSBA) @USSBA, That department was discussed in a @Nasa TownHall meeting, just because im @Nasa-Openscapes [EarthData](https://www.earthdata.nasa.gov/about/program-leadership/organization-chart) dont mean i claim them people quick, i never talked to [Mori](https://moriassociates.com/) directly again @usnavy i might be in the navy and not know it, i got a pdf from [spaceForce](https://github.com/USSF-ORBIT) @USSF-ORBIT @nbcnews
+
+Back to @USSBA i put some data up on [@tumblr for you to review](https://www.tumblr.com/rashardmro/807023003838906368/osbp?source=share)
+
+
+_Accountant [Latrice Fitzpatrick](https://www.bbb.org/us/oh/youngstown/profile/financial-planning-consultants/count-profits-0432-20020936) , the founder of Virtiserv, said she always suggests spending money in a way that can make more money._ - [wkbn.com](https://www.wkbn.com/news/local-news/local-experts-talk-best-ways-to-spend-tax-money/) @blackgirlscode
+
+
+![firefoxNightly](https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Firefox_Nightly_logo%2C_2017.png/250px-Firefox_Nightly_logo%2C_2017.png)
+
+# NASA Office of Small Business Programs
+The mission of the NASA Office of Small Business Programs is to promote and integrate small businesses into the industrial base of contractors and subcontractors that support the future of space exploration, scientific discovery, and aeronautics research. [EXPLORE - nasa.gov/osbp/](https://www.nasa.gov/osbp/) @blackgirlscode  @ajcnews @webb hi [@dishpanda](https://github.com/dishpanda) i just wanted to share this townhall with entreprenures 
+
+[OSBP - YOUTUBEPLAYLiST](https://www.youtube.com/watch?v=Y6Heg0fLTYc&list=PLiuUQ9asub3SkH0ThCuRpuEqNNWbmZFVs&index=1)
+
+<img alt="image" src="https://github.com/user-attachments/assets/4506da41-8ceb-4d81-a8fa-d63159de6ef7" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/8994144b-f3b6-4422-8775-dda80fa0f854" />
+
+
+[TheBronx:: Wasteland](https://youtu.be/H15INi4udRE?si=XU7Ryu_jc5Kb0MoO) @nasa-jpl @jaxa @la-county-isd 
+[United Nations - WATCH LiVE](https://www.youtube.com/live/vYRfQo6JMxc?si=63HPBq-7FIEpkTsk) @blackgirlscode
+
+@Blackgirlscode at one point Tinashe was talking to me and i made her a pages blog, if thats glorilla / Latrice Fiz Patrick here is a link [https://thakarashard.github.io/BUBBLEGUMPOP_TiNASHE/](https://thakarashard.github.io/BUBBLEGUMPOP_TiNASHE/)
+@nasa-jpl i can get shut down because some of them were on sale in hollywood please protect my link, they asked me to so its like a law enforcement thing becasue they were doxxed and people got fired. I got fired, which slowed my return from atlanta but several of the girls at Dance411 lost thier jobs @la-county-isd [Holly_J_Mitchell](https://lacounty.gov/government/board-of-supervisors/holly-j-mitchell/) [[1](https://women.ca.gov/los-angeles-county-supervisor-holly-j-mitchell/)] [[2](https://en.wikipedia.org/wiki/Talk:Holly_Mitchell)] they are good with compputers and got sabotaged a lot on the way out west @CityOfLosAngeles its a template i developed when @pintrest was under attack @deptofdefense 
+
+Remember alot of the grls are in burlesque to this day so if you talk to a social company answers and results can vary but i was clean with them @whitehouse [MrTrump](https://www.whitehouse.gov/administration/donald-j-trump/). By The Way, I have two videos I want you to see about Quality OF life in LosAngeles and the priority of Art, Graffiti and Going HAm
+
+- [HTAU_MRTRUMP1OF2SOL4711-4765](https://archive.org/download/commitmentmaintenance/000000000000_laRiverCanaL_HTAU_MRTRUMP1OF2SOL4711-4765_Jon_Ossoff_karenbass_NAGiN_COX_rashardsupdate_VirtiservLatriceVID_20260126_100756_144VID_20260125_002200_772.mp4) 	26-Jan-2026 23:36	323.1M
+- [HTAU_MRTRUMP2OF2SOL4711](https://archive.org/download/commitmentmaintenance/000000000000_laRiverCanaL_HTAU_MRTRUMP2OF2SOL4711-4765_Jon_Ossoff_karenbass_NAGiN_COX_rashardsupdate_VirtiservLatriceVID_20260126_100756_144VID_20260125_002817_522.mp4)26-Jan-2026 23:37	140.8M
+
+<img  alt="image" src="https://github.com/user-attachments/assets/74240373-e8b5-4a8b-bbd2-fc54d363f4a8" />
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/c3757bb2-da83-4804-94dd-d3d51091fd87" />
+
+[rashardgds](https://rashardgds.github.io/rashardmro/) was like 65 -100 commits behind on the pages repo, this mro repo is a template clone so its not attached to the main fork and never updates, I dont know a clean way to update a new head , i really dont know what i did, blogging is so realtime @blackgirlscode
+<img  alt="image" src="https://github.com/user-attachments/assets/e442bb57-aff9-4c08-a858-13183de69af6" />
+
+<img alt="image" src="https://github.com/user-attachments/assets/73d72c73-7528-4d06-9408-b81c83f07dec" />
+<img  alt="image" src="https://github.com/user-attachments/assets/73ef097e-7ad3-471e-a752-6387fdbab38c" />
+
+
+@blackgirlscode [wefunk](https://www.wefunkradio.com/radio/play) works for me rn... i think i saw trice, she might be with allied... I am so confused, at least if she work for allied now, she from freaknick and lost her sparkle @nasa-jpl @la-county-isd //// wefunk likes [SAGERAO 297](https://www.youtube.com/watch?v=OxIIt_l9duI&list=PL7CFEC8E5C731E299&index=19) - `date cuenta` [link](https://www.wefunkradio.com/song/879_af) // [Nonstop Disco Powerpack - BeastieBoys](https://youtu.be/rVqBcO2ancE) :: reminds me of [HELLONASTY](https://www.reddit.com/r/90sHipHop/comments/1m9xo3c/beastie_boys_hello_nasty_full_album/) - [Beastie Boys](https://youtu.be/JkeE2O15RFs?si=gbbPyukYGYSa6mOR) // liked [ekkah & dâm-funk](https://www.wefunkradio.com/song/879_ai) ::: [Listen2 - WHATSUP](https://youtu.be/10qegRw6aJ0?si=_y9DegiUY-eTO9_H) @blackgirlscode [NobadEnergy](https://youtu.be/47m8-xT0gBE?si=5Pn2BKuJnl2bbEno) [sparkles](https://www.facebook.com/thevirtiservway/)
+
+### The weather guidelines for NASA’s Artemis II flight
+test identify conditions to safely roll out to the pad and launch the agency’s Space Launch System and Orion spacecraft.
+[Read](https://www.nasa.gov/artemis-ii-weather-criteria/) @stateofcalifornia @blackgirlscode [Watch - 
+Artemis II Arrives at the Launchpad](https://youtu.be/EZaKdgc0x5g?si=2C1U1-Xhk2npPbNP) @lmco `2023-10-03 -> 2026-01-20 nasa-gov.go-vip.net` [Read https://dnshistory.org/dns-records/www.nasa.gov](https://dnshistory.org/dns-records/www.nasa.gov)
+
+```
+Registrar
+get.gov
+WHOIS Server
+whois.nic.gov
+```
+
+[https://lookup.icann.org/en/lookup](https://lookup.icann.org/en/lookup) @podaac @nasa-jpl @emit-sds @staeofcalifornia @blackgirlscode say @icann! [LAtrice](https://www.facebook.com/thevirtiservway/)
+
+```
+Name: nasa.gov
+Registry Domain ID: DF12B2D9A-GOV
+Domain Status:
+serverTransferProhibited
+
+Nameservers:
+a1-32.akam.net
+
+a12-64.akam.net
+
+a14-67.akam.net
+
+a5-66.akam.net
+
+a8-66.akam.net
+
+a9-64.akam.net
+
+Dates
+Registry Expiration: 2026-07-31 14:55:32 UTC
+Updated: 2025-09-07 18:35:13 UTC
+Created: 1997-10-02 01:29:26 UTC
+```
+
+
+```shell
+>EXACT< name search [SPACE sensitive]:
+ NAME = artimis;
+Continue [ <cr>=yes, n=no, ? ] : 
+*******************************************************************************
+JPL/DASTCOM            Small-body Index Search Results     2026-Jan-22 11:18:40
+ Comet AND asteroid index search:
+   NAME = artimis;
+ Matching small-bodies: 
+    No matches found.
+*******************************************************************************
+ Select ... [F]tp, [M]ail, [R]edisplay, ?, <cr>: artemis
+*******************************************************************************
+ Multiple major-bodies match string "ARTEMIS*"
+  ID#      Name                               Designation  IAU/aliases/other   
+  -------  ---------------------------------- -----------  ------------------- 
+     -192  THEMIS-B (spacecraft)              2007-004B    ARTEMIS-P1           
+     -193  THEMIS-C (spacecraft)              2007-004C    ARTEMIS-P2           
+    -1023  Artemis I (spacecraft)             2022-156A    Orion EM-1           
+ 
+   Number of matches =  3. Use ID# to make unique selection.
+*******************************************************************************
+ Select ... [F]tp, [M]ail, [R]edisplay, ?, <cr>: -1023
+*******************************************************************************
+ Revised: Dec 10, 2022        Artemis I / Spacecraft (Earth)              -1023
+                              https://www.nasa.gov/artemis-1
+ BACKGROUND:
+  NASA's 26-day unmanned Artemis I mission was a test of integrated systems to:
+   - launch Orion atop the SLS rocket 
+   - operate the spacecraft in a deep space environment
+   - orbit the Moon in a distant retrograde orbit before returning to Earth
+   - test Orion's heat shield at 30,000 km/hr (2760 deg. C), and 
+   - recover the crew module after reentry, descent, and splashdown
+ MAJOR EVENTS:
+  Launched November 16 @ 06:47:44 UTC from pad 39B at the Kennedy Space Center. 
+  Relative timings below may or may not be be shifted slightly due to launch 
+  being delayed 43 minutes.
+  launch+00h 18m 09s - Orion deploys solar arrays in Earth orbit
+        +00h 52m 56s - Perigee raise maneuver (22 second burn)
+        +01h 29m 27s - Trans-lunar injection burn (18m burn)
+        +01h 57m 36s - Orion/ICPS separation
+```
+
+@TheSpaceDevs @nasa-pds @emit-sds . . . 
+[Artemis I Weather Criteria](https://www3.nasa.gov/sites/default/files/atoms/files/artemis_i_weather_criteria_fact_sheet_0.pdf)
+@cityoflosangeles @la-county-isd you guys should know about these things, then theres places we can team to keep los angeles safe Mrs Solis @bloomberg @foxnews
+`https://web.archive.org/web/20220430125134/https://www.nasa.gov/artemis-1` [Artemis1](https://web.archive.org/web/20220430125134/https://www.nasa.gov/artemis-1) The Link Points to `nasa.gov/images/` January 26 is the earliest snapshot revealing the artemis 1 mission log being vandalized @whitehouse i need mrs bass at somepoint to help me with my family, somone trying to kill me! This is from around the fires 
+```
+
+Loading...
+
+https://www.nasa.gov/artemis-1/ |
+13:38:09 January 26, 2025
+
+Got an HTTP 301 response at crawl time
+
+Redirecting to...
+
+https://www.nasa.gov/images/
+```
+```
+Loading...
+
+https://www.nasa.gov/artemis-1/ |
+18:07:54 February 04, 2025
+
+Got an HTTP 301 response at crawl time
+
+Redirecting to...
+
+https://www.nasa.gov/images/
+```
+
+<img  alt="image" src="https://github.com/user-attachments/assets/8e1e5999-afc0-4c7e-ab13-f95914e18a17" />
+
+```
+Loading...
+
+https://www.nasa.gov/artemis-1/ |
+21:23:53 July 23, 2024
+
+Got an HTTP 302 response at crawl time
+
+Redirecting to...
+
+https://www.nasa.gov/mission/artemis-i/
+```
+`https://web.archive.org/web/20240723212353/https://www.nasa.gov/mission/artemis-i/`
+[https://web.archive.org/web/20240723212353/https://www.nasa.gov/mission/artemis-i/](https://web.archive.org/web/20240723212353/https://www.nasa.gov/mission/artemis-i/) @nasa @whitehouse @dhs-gov 
+<img alt="image" src="https://github.com/user-attachments/assets/e42599db-8ba8-4353-9502-0029544243ed" />
+
+
+
+@nasa-jpl ok, i told robin obrien i was working from home onetime, but i got kidnapped , please understand that people keep disabling me so im really behind... These jupyter notebooks are challenging, the plain text is bugging me because i wanna finish the excercise... i should stop feeling sorry for myself [Latrice](https://www.facebook.com/thevirtiservway/) @blackgirlscode @fbi @whitehouse . . . i can find some tutorials to get up to speed with delivering the freshest sat data, erathdata is still a webtool... @stateofcalifornia 
+
+<img   alt="image" src="https://github.com/user-attachments/assets/761a3e2e-277b-46a2-9f47-62e472dfc393" />
+
 
 [OPERA Radiometric Terrain Corrected SAR Backscatter from Sentinel-1 validated product (Version 1)](https://www.earthdata.nasa.gov/data/catalog/asf-opera-l2-rtc-s1-v1-1) @asfadmin [Holly J Mitchell]() / [Lindsey Horavath]() / [TRACi_PARK]() |> [LOSANGELES](https://worldview.earthdata.nasa.gov/?v=-120.9543727377381,31.712352053321634,-115.7058907089119,35.631218634845204&l=Reference_Labels_15m(hidden),Reference_Features_15m(hidden),Coastlines_15m,OPERA_L2_Radiometric_Terrain_Corrected_SAR_Sentinel-1,OPERA_L3_Dynamic_Surface_Water_Extent-Sentinel-1(disabled=5),OPERA_L3_Dynamic_Surface_Water_Extent-HLS(disabled=5),OPERA_L3_DIST-ALERT-HLS_Color_Index(disabled=9),OCI_PACE_True_Color(hidden),VIIRS_NOAA21_CorrectedReflectance_TrueColor(hidden),VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor&lg=true&t=2026-01-10-T20%3A59%3A50Z) <| @blackgirlscode 
 

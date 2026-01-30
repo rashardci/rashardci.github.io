@@ -20,6 +20,11 @@ mermaid: true
 [<img src="https://web.archive.org/web/20060104192812im_/http://mars.jpl.nasa.gov/mro/images/mro_banner.jpg">]( https://web.archive.org/web/20060108092026/http://mars.jpl.nasa.gov/mro/)
 ### [Mars Reconnaissance Orbiter](https://hirise-pds.lpl.arizona.edu/PDS/CATALOG/MISSION.CAT) : [Mission Objectives](https://www.google.com/logos/doodles/2025/fourth-of-july-2025-6753651837110704-2x.png) NASA's Mars Reconnaissance Orbiter searches for evidence that water persisted on the surface of Mars for a long period of time. [ReadMore](https://science.nasa.gov/mission/mars-reconnaissance-orbiter/) 
 
+[EnvironmentalPages - LONGBEACH](https://thakarashard.github.io/rashardmro/longbeach) @NASA-OPENSCAPES @la-county-isd @nasa-jpl
+
+<img  alt="image" src="https://github.com/user-attachments/assets/d9512aee-0df5-480a-add5-d892c4fa0967" />
+
+
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/58ClQr29vxsXM4IlpgvSWO?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 @nasa-jpl im working on some online learning, ill be back to arset . . . i need to knock some of these out . . . Im learning CommandLineGit simultaneously @git @blackgirlscode rostered @la-county-isd [HollyJMitCHELL](https://nul.org/news/sen-holly-j-mitchell-why-im-leading-charge-against-natural-hair-discrimination-america) @officialredhat [LearningLAb](https://www.redhat.com/en/services/training/learning-subscription?sc_cid=RHCTN0240000419312&gclsrc=aw.ds&gad_source=1&gad_campaignid=20731743748&gbraid=0AAAAADsbVMSAMpiWnJRhREbYNMw9GiC_8&gclid=Cj0KCQiAhOfLBhCCARIsAJPiopOM7U0RZbiuq9_2mVaNCJnmxj96OLeu4aXajJ-iHLFP_ofUpG9vHmYaAkz6EALw_wcB) @podaac @nasa @stateofcalifornia @nasa-pds

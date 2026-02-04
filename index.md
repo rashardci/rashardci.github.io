@@ -35,7 +35,8 @@ NASAJPL MRO JUNO iSS [ALt - github.com/kellyrashardiman/kellyrashardiman.github.
 
 
 
-code sample @cityoflosangeles [karenbass](https://x.com/KarenBassLA?lang=en) [@la-county-isd](https://www.instagram.com/hollyjmitchell/) `trice` if u lost weight... [HollyMitchell](https://www.instagram.com/hollyjmitchell/)
+code sample @cityoflosangeles [karenbass](https://x.com/KarenBassLA?lang=en) [@la-county-isd](https://www.instagram.com/hollyjmitchell/) `trice` if u lost weight... [HollyMitchell](https://www.instagram.com/hollyjmitchell/) . . . @emit-sds its rocky but im just saying people need to know how to guide me! @nasa @whitehouse [`codepen.io`/ricoThaka/pen/azzqYBQ](https://codepen.io/ricoThaka/pen/azzqYBQ) its the css container, its like a bucket to dump flat files into, its incomplete and alot of the backend has collapsed! but i want you to see history! @datadesk @washingtonpost
+
 <img  alt="image" src="https://github.com/user-attachments/assets/3b3f8614-c4d1-46b6-8313-f88ec638b449" />
 
 

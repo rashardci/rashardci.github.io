@@ -33,6 +33,13 @@ NASAJPL MRO JUNO iSS [ALt - github.com/kellyrashardiman/kellyrashardiman.github.
 
 # today
 
+@StateOfCalifornia @Cityoflosangeles @la-county-isd  @blackgirlscode
+Hi Im recovering from my account being hijacked and had to start a new @tumblr up, i think th ladies on the council need someone bright from the crew to discuss blogging styles and what is desired from the post covid crowd stranded here after east coast relationshipfraud . . . @nasa @nasa-jpl @whitehouse 
+
+[https://rashardsdata.tumblr.com/](https://rashardsdata.tumblr.com/)
+<img  alt="image" src="https://github.com/user-attachments/assets/99188e92-d767-4184-86b1-0c33e445842e" />
+
+
 `CouncilWoman` Megan Kerr @StateOfCalifornia @Cityoflosangeles @la-county-isd [district5@longbeach.gov](mailto:district5@longbeach.gov)
 
 https://sdo.gsfc.nasa.gov/data/rules.php](https://sdo.gsfc.nasa.gov/data/rules.php)

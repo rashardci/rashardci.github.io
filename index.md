@@ -25,6 +25,12 @@ mermaid: true
 
 @nasa-jpl @nasa-pds @CS-PCC @emit-sds before a rumor gets started, someone hijacked my account [holetoanotheruniverse@gmail.com](mailto:holetoanotheruniverse@gmail.com), so in trying to make my online presence a public one i used the  City Of Pasadena number listed on @meta facebook and know a text went thrugh, i tried to send it to a jplR but it was all landlines @blackgirlscode i denied erika on the train and a playboy minion appeard in long beach!
 
+```
+Verify it’s you
+There is something unusual about your activity. For your security, Google wants to make sure it’s really you.
+holetoanotheruniverse40@gmail.com
+A text message with a 6-digit verification code was just sent to (626) 744-7311.
+```
 [https://www.facebook.com/cityofpasadena/posts/meet-our-city-service-center-team-comprised-of-five-dedicated-employees-who-hand/1313059184190846/](https://www.facebook.com/cityofpasadena/posts/meet-our-city-service-center-team-comprised-of-five-dedicated-employees-who-hand/1313059184190846/) [https://accounts.google.com/v3/signin/challenge/iap/verify?TL=APgKAcaQLUUfG2mYh5VkLGLmULjKBOFkH5RGXZTatqXIRuFl32ot0OuoTevQfUI2&checkConnection=youtube%3A60&checkedDomains=youtube&cid=4&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Fchrome%2Fsync%2Ffinish%3Fest%3DAEmG5eAqyp3yCLRv9r1e_WyGksyT6GNuW3nUkjQkAkaogEv9afd7d-nQ35uiRLFkd5rQCrcfsJ92B6vW6dOrv9k%26continue%3Dhttps%3A%2F%2Fwww.google.com%2F&dsh=S1946667060%3A1770411205914566&flowName=GlifDesktopChromeSync&pstMsg=1&theme=mn](https://accounts.google.com/v3/signin/challenge/iap/verify?TL=APgKAcaQLUUfG2mYh5VkLGLmULjKBOFkH5RGXZTatqXIRuFl32ot0OuoTevQfUI2&checkConnection=youtube%3A60&checkedDomains=youtube&cid=4&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Fchrome%2Fsync%2Ffinish%3Fest%3DAEmG5eAqyp3yCLRv9r1e_WyGksyT6GNuW3nUkjQkAkaogEv9afd7d-nQ35uiRLFkd5rQCrcfsJ92B6vW6dOrv9k%26continue%3Dhttps%3A%2F%2Fwww.google.com%2F&dsh=S1946667060%3A1770411205914566&flowName=GlifDesktopChromeSync&pstMsg=1&theme=mn) @protonmail @googleworkspace
 
 <img  alt="image" src="https://github.com/user-attachments/assets/fc7c983b-47f1-4418-ab5c-5dbb4014b009" />

@@ -33,6 +33,20 @@ NASAJPL MRO JUNO iSS [ALt - github.com/kellyrashardiman/kellyrashardiman.github.
 
 # today
 
+
+
+code sample @cityoflosangeles [karenbass](https://x.com/KarenBassLA?lang=en) [@la-county-isd](https://www.instagram.com/hollyjmitchell/) `trice` if u lost weight... [HollyMitchell](https://www.instagram.com/hollyjmitchell/) . . . @emit-sds its rocky but im just saying people need to know how to guide me! @nasa @whitehouse [`codepen.io`/ricoThaka/pen/azzqYBQ](https://codepen.io/ricoThaka/pen/azzqYBQ) its the css container, its like a bucket to dump flat files into, its incomplete and alot of the backend has collapsed! but i want you to see history! @datadesk @washingtonpost
+
+<img  alt="image" src="https://github.com/user-attachments/assets/3b3f8614-c4d1-46b6-8313-f88ec638b449" />
+
+
+@StateOfCalifornia @Cityoflosangeles @la-county-isd  @blackgirlscode
+Hi Im recovering from my account being hijacked and had to start a new @tumblr up, i think th ladies on the council need someone bright from the crew to discuss blogging styles and what is desired from the post covid crowd stranded here after east coast relationshipfraud . . . @nasa @nasa-jpl @whitehouse 
+_https://www.instagram.com/karenbassla/?hl=en_ 
+[https://rashardsdata.tumblr.com/](https://rashardsdata.tumblr.com/)
+<img  alt="image" src="https://github.com/user-attachments/assets/99188e92-d767-4184-86b1-0c33e445842e" />
+
+
 `CouncilWoman` Megan Kerr @StateOfCalifornia @Cityoflosangeles @la-county-isd [district5@longbeach.gov](mailto:district5@longbeach.gov)
 
 https://sdo.gsfc.nasa.gov/data/rules.php](https://sdo.gsfc.nasa.gov/data/rules.php)

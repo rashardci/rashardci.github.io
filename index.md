@@ -22,6 +22,26 @@ mermaid: true
 ### [Mars Reconnaissance Orbiter](https://hirise-pds.lpl.arizona.edu/PDS/CATALOG/MISSION.CAT) :
  [Mission Objectives](https://www.google.com/logos/doodles/2025/fourth-of-july-2025-6753651837110704-2x.png) NASA's Mars Reconnaissance Orbiter searches for evidence that water persisted on the surface of Mars for a long period of time. [ReadMore](https://science.nasa.gov/mission/mars-reconnaissance-orbiter/) 
 
+[https://themis.asu.edu/livefrommars](https://themis.asu.edu/livefrommars) 
+[https://www.w3schools.com/html/tryit.asp?filename=tryhtml_basic](https://www.w3schools.com/html/tryit.asp?filename=tryhtml_basic)
+I like this live viewer, i tried to pull it out, but its more compluicated than just popping in an objectag... but then again maby not. it dont have to be a direct pull
+[THEMIS images by topic](https://themis.asu.edu/topic) @ASU @nasa-jpl 
+
+@la-county-isd i work with a lot of data stored in arizona @LACMTA 
+[HollyMitchell](https://archive.senate.ca.gov/member-archives/2015-16/holly-j-mitchell-d-district-30) / [MsKamlagerDov](https://www.congress.gov/member/sydney-kamlager-dove/K000400) < CONGRESSMEMBERS [MayorBass](https://www.congress.gov/member/karen-bass/B001270) @cityoflosangeles 
+
+<embed
+  type="text/html"
+  src="https://themis.asu.edu/livefrommars"
+  width="100%"
+  height="400px" />
+  
+<img  alt="image" src="https://github.com/user-attachments/assets/2efaf900-1427-4b57-bc84-eaee70ac31fc" />
+<img  alt="image" src="https://github.com/user-attachments/assets/3a9a675b-05f0-4aa7-b6f0-20a9a0973101" />
+
+
+<img   alt="image" src="https://github.com/user-attachments/assets/2869b5eb-ff15-4012-8089-a4716ce337bf" />
+
 
 @nasa-jpl @nasa-pds @CS-PCC @emit-sds before a rumor gets started, someone hijacked my account [holetoanotheruniverse@gmail.com](mailto:holetoanotheruniverse@gmail.com), so in trying to make my online presence a public one i used the  City Of Pasadena number listed on @meta facebook and know a text went thrugh, i tried to send it to a jplR but it was all landlines @blackgirlscode i denied erika on the train and a playboy minion appeard in long beach!
 

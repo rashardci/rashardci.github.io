@@ -18,7 +18,27 @@ mermaid: true
    
  </div> 
 
+@nasa-jpl @blackgirlscode are you guys doing ok ? The last post i see on @x is 10/2/2019
+@la-county-isd Ms Holly, im scared Latrice is Willow Smith in padded suits [@foratlanta](https://en.wikipedia.org/wiki/Societal_collapse#/media/File:Cole_Thomas_The_Course_of_Empire_Destruction_1836.jpg) [@StateOfCalifornia](https://en.wikipedia.org/wiki/Societal_collapse#/media/File:Cole_Thomas_The_Course_of_Empire_Desolation_1836.jpg) [News @CityOflosAngeles Κοινωνική Σαπίλα](https://en.wikipedia.org/wiki/Societal_collapse)
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Will Smith meets Black Girls CODE (Tech Divas)! We’re enjoying this amazing experience from <a href="https://twitter.com/ParamountPics?ref_src=twsrc%5Etfw">@ParamountPics</a>! There’s still more to come! <a href="https://twitter.com/hashtag/FutureTechBoss?src=hash&amp;ref_src=twsrc%5Etfw">#FutureTechBoss</a> <a href="https://t.co/kGzcwEMHgG">pic.twitter.com/kGzcwEMHgG</a></p>&mdash; Black Girls Code (@BlackGirlsCode) <a href="https://twitter.com/BlackGirlsCode/status/1179538603686289409?ref_src=twsrc%5Etfw">October 2, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<img   alt="image" src="https://github.com/user-attachments/assets/19014646-ca65-4732-a6e3-7b7c800fcfa1" />
+
+
+@blackgirlscode [ジェット セット ラジオ - segaretro.org/Jet_Set_Radio](https://segaretro.org/Jet_Set_Radio) + @foratlanta [file](https://archive.org/details/sega-dreamcast-roms) @ign + @nasa-jpl , @ign check this repo and [its pages home](https://jplopensourcerover.com/#!/home) just play with it @newshour @ktla @la-county-isd 
+<img alt="Screenshot_20260303-095357" src="https://github.com/user-attachments/assets/b74e7a1c-9458-4a8f-a3b1-c18bc8359b07" />
+<img alt="Screenshot_20260303-095708" src="https://github.com/user-attachments/assets/770a39a8-4434-4b67-ba36-282f35f313b4" />
+<img alt="Screenshot_20260303-095423" src="https://github.com/user-attachments/assets/304cf5ec-c3d3-4b88-89f0-0d1c1ecff3fe" />
+
+
+
+![https://www.google.com/logos/doodles/2025/celebrating-house-music-6753651837110601.2-2xa.gif](https://www.google.com/logos/doodles/2025/celebrating-house-music-6753651837110601.2-2xa.gif)
+
+@blackgirlscode 
+Basic Writing Skills w/ Cicely Tyson (1988) [WATCH](https://youtu.be/UnX47Odz3z4)
+
+https://www.cloudmobileusa.com/products/p/stratus-c8-smartphone
 [link](https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=9.80/-12349290.56/4430501.09&layers=aqv_chla_20260220_landsat:1.00:0.00:30.00:default)
 <img  alt="image" src="https://github.com/user-attachments/assets/b0889426-fc98-402c-b403-3196d7db53e5" />
 

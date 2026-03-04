@@ -18,6 +18,22 @@ mermaid: true
    
  </div> 
 
+#  HTOP
+It is a text-mode, cross-platform interactive process viewer.  @nasa-jpl [github.com/@htop-dev/htop](https://github.com/htop-dev/htop) 
+[Akamai Tutorial](https://www.youtube.com/watch?v=bKWZJ3_5ODc&themeRefresh=1) :: [htop.dev/](https://htop.dev/) @la-county-isd [process-management-htop - @redhatofficial](https://www.redhat.com/en/blog/process-management-htop) @blackgirlscode [A Beginners Guide to htop for Process Management - spin.atomicobject.com/htop-guide/](https://spin.atomicobject.com/htop-guide/)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/1d594e3c-45ff-49a9-96c4-ae227956f069" />
+
+[htop command in Linux with examples](https://www.geeksforgeeks.org/linux-unix/htop-command-in-linux-with-examples/)
+
+@nintendo 
+metroid was unplayable but i think its the way [dolphin](https://dolphin-emu.org/) loads the whole iso into momory, [my phone @libretro @WeAreFairphone](https://www.cloudmobileusa.com/products/p/stratus-c8-smartphone) just ~~chokes~~ moves like old molassass yet plays power stone and virtual on cybertroopers flawlessly on dreamcast [https://docs.libretro.com/library/dolphin/](https://docs.libretro.com/library/dolphin/)
+
+![metroid](https://github.com/user-attachments/assets/de8373ad-4a22-4633-95d6-77aaede6fb1c)
+
+
+ @nasa-jpl I made a page to taske notes for bug reporting, its mostly games right now, but its a concept im holding onto [Smartphone_Lab - Clickhere](https://github.com/ra5hard/ra5hard.github.io/blob/master/_posts/2026-03-03-smartphone_lab.md)
+<img src="https://64.media.tumblr.com/5fcd4790d550e23f1c27cfaa4c4b892b/79feb2b9c6deca4e-c8/s2048x3072/9d12c08b25a71da7c896a2bd9d597fe66e5ce63f.pnj"/><img width="1600" height="720" alt="image" src="https://github.com/user-attachments/assets/2854a16b-05ea-4ec6-9a00-11350e9b4116" />
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A1006480420&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/theclassicmixcdseries" title="The Classic Mix CD Series" target="_blank" style="color: #cccccc; text-decoration: none;">The Classic Mix CD Series</a> · <a href="https://soundcloud.com/theclassicmixcdseries/dj-food-dk-now-listen" title="785 - Solid Steel pres. DJ Food &amp; DK - Now, Listen! (2001)" target="_blank" style="color: #cccccc; text-decoration: none;">785 - Solid Steel pres. DJ Food &amp; DK - Now, Listen! (2001)</a></div>
 

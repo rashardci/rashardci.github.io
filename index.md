@@ -18,6 +18,10 @@ mermaid: true
    
  </div> 
 
+
+@nasa-pds bill nye on @CityOfLosaNgeles tv [https://lacity.gov/tv](https://lacity.gov/tv) @blackgirlscode 
+<img   alt="image" src="https://github.com/user-attachments/assets/2542b205-c158-4843-9035-40bd1e25cca4" />
+
 #  HTOP
 It is a text-mode, cross-platform interactive process viewer.  @nasa-jpl [github.com/@htop-dev/htop](https://github.com/htop-dev/htop) 
 [Akamai Tutorial](https://www.youtube.com/watch?v=bKWZJ3_5ODc&themeRefresh=1) :: [htop.dev/](https://htop.dev/) @la-county-isd [process-management-htop - @redhatofficial](https://www.redhat.com/en/blog/process-management-htop) @blackgirlscode [A Beginners Guide to htop for Process Management - spin.atomicobject.com/htop-guide/](https://spin.atomicobject.com/htop-guide/)  @nasa-jpl I made a page to taske notes for bug reporting, its mostly games right now, but its a concept im holding onto [Smartphone_Lab - Clickhere](https://github.com/ra5hard/ra5hard.github.io/blob/master/_posts/2026-03-03-smartphone_lab.md)

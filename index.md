@@ -18,6 +18,56 @@ mermaid: true
    
  </div> 
 
+## Rashard Kelly 
+MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/) . . . @ucla hi from [Remote @Nasa-JPL](https://holetoanotheruniverse40.github.io/compiling/) 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/a12ea928-dd06-4a65-8c6e-7bff0bb9d494" />
+<img  alt="image" src="https://github.com/user-attachments/assets/279e2459-ca5e-4690-b55d-65e0f015bb06" />
+
+## Differences with @Shopify / [liquid @nasa-jpl @la-county-isd](https://shopify.dev/docs/api/liquid)
+raed [liquidjs.com/tutorials/differences.html](https://liquidjs.com/tutorials/differences.html)
+`Liquid language is originally implemented in Ruby and used by Shopify and Jekyll (and thus GitHub Pages)`
+
+@la-county-isd i am storing old pages in this [@jekyll](https://jekyllrb.com/docs/posts/) 4 [loop](https://shopify.github.io/liquid/tags/iteration/) @blackgirlscode @nasa-pds @nasa-giss @salesforce @nasa-jpl @chicago @cityofsantamonica
+it pulls all the post with the [category](https://emmatheeng.github.io/projects/blog_setup/blog-categories.html) `FP` as a small archive with a [wordcloud](https://nanx.me/blog/post/research-word-cloud/) style presentation @foxnews @washingtonpost @newshour @howard-university-web-services @foratlanta @disney
+[https://liquidjs.com/tutorials/intro-to-liquid.html](https://liquidjs.com/tutorials/intro-to-liquid.html)
+
+{% raw %}
+
+  {% for post in site.posts %}
+     {% if post.categories contains 'FP' %}  
+    <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">{{ post.title }}</a>
+     {% endif %}
+     
+  {% endfor %}
+  
+{% endraw %}
+
+<div class="box">
+
+
+   
+ </div> 
+
+<div class="box">
+
+  {% for post in site.posts %}
+     {% if post.categories contains 'FP' %}  
+    <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">{{ post.title }}</a>
+     {% endif %}
+     
+  {% endfor %}
+   
+ </div> 
+
+[4 LooP @nasa-jpl @la-county-isd `*gallery*` ](https://ra5hard.github.io/artemis2)
+<img  alt="image" src="https://github.com/user-attachments/assets/79d4e91c-ab6a-40aa-bdd5-9a2c75a1638f" />
+
+
+![https://csrc.nist.gov/CSRC/media/images/svg/nist-logo.svg](https://csrc.nist.gov/CSRC/media/images/svg/nist-logo.svg)
+Computer Security Resource Center [man-in-the-middle attack (MitM)](https://csrc.nist.gov/glossary/term/man_in_the_middle_attack)
+@la-county-isd @blackgirlscode @nasa-jpl [email @usnistgov](https://mail.google.com/mail/u/0/#sent/KtbxLrjNdDszjzkLQVlTHsXPGjbDBFJJNB) @vsco @voyager-tech-inc @googleworkspace  @Whitehouse @dhs-gov 
+
 
 @nasa-pds bill nye on @CityOfLosaNgeles tv [https://lacity.gov/tv](https://lacity.gov/tv) @blackgirlscode 
 <img   alt="image" src="https://github.com/user-attachments/assets/2542b205-c158-4843-9035-40bd1e25cca4" />

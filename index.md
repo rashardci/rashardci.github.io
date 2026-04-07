@@ -22,6 +22,9 @@ mermaid: true
 MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/) . . . @ucla hi from [Remote @Nasa-JPL](https://holetoanotheruniverse40.github.io/compiling/) 
 
 
+[https://images-assets.nasa.gov/image/art002e009571/art002e009571~large.jpg?w=1920&h=1440&fit=clip&crop=faces%2Cfocalpoint](https://images-assets.nasa.gov/image/art002e009571/art002e009571~large.jpg?w=1920&h=1440&fit=clip&crop=faces%2Cfocalpoint)
+![https://images-assets.nasa.gov/image/art002e009571/art002e009571~large.jpg?w=1920&h=1440&fit=clip&crop=faces%2Cfocalpoint](https://images-assets.nasa.gov/image/art002e009571/art002e009571~large.jpg?w=1920&h=1440&fit=clip&crop=faces%2Cfocalpoint)
+
 [https://images-assets.nasa.gov/image/art002e009298/art002e009298~large.jpg?w=768&h=512&fit=crop&crop=faces%2Cfocalpoint](https://images-assets.nasa.gov/image/art002e009298/art002e009298~large.jpg?w=768&h=512&fit=crop&crop=faces%2Cfocalpoint) 
 ![https://images-assets.nasa.gov/image/art002e009298/art002e009298~large.jpg?w=768&h=512&fit=crop&crop=faces%2Cfocalpoint](https://images-assets.nasa.gov/image/art002e009298/art002e009298~large.jpg?w=768&h=512&fit=crop&crop=faces%2Cfocalpoint) 
 

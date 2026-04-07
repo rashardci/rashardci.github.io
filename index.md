@@ -21,12 +21,16 @@ mermaid: true
 ## Rashard Kelly 
 MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/) . . . @ucla hi from [Remote @Nasa-JPL](https://holetoanotheruniverse40.github.io/compiling/) 
 
+
+[https://images-assets.nasa.gov/image/art002e009298/art002e009298~large.jpg?w=768&h=512&fit=crop&crop=faces%2Cfocalpoint](https://images-assets.nasa.gov/image/art002e009298/art002e009298~large.jpg?w=768&h=512&fit=crop&crop=faces%2Cfocalpoint) 
+![https://images-assets.nasa.gov/image/art002e009298/art002e009298~large.jpg?w=768&h=512&fit=crop&crop=faces%2Cfocalpoint](https://images-assets.nasa.gov/image/art002e009298/art002e009298~large.jpg?w=768&h=512&fit=crop&crop=faces%2Cfocalpoint) 
+
 [https://www.nasa.gov/wp-content/uploads/2026/04/art002e009288orig.jpg?resize=768,512](https://www.nasa.gov/wp-content/uploads/2026/04/art002e009288orig.jpg?resize=768,512)
 ![https://www.nasa.gov/wp-content/uploads/2026/04/art002e009288orig.jpg?resize=768,512](https://www.nasa.gov/wp-content/uploads/2026/04/art002e009288orig.jpg?resize=768,512)
 
 [https://www.nasa.gov/wp-content/uploads/2026/04/art002e009288orig.jpg?resize=768,512](https://www.nasa.gov/wp-content/uploads/2026/04/art002e009288orig.jpg?resize=768,512)
 
-![images-assets.nasa.gov/image/art002e009289/art002e009289~large.jpg?w=768&h=512&fit=crop&crop=faces%2Cfocalpoint](https://images-assets.nasa.gov/image/art002e009289/art002e009289~large.jpg?w=768&h=512&fit=crop&crop=faces%2Cfocalpoint)
+![images-assets.nasa.gov/image/art002e009289/art002e009289~large.jpg](https://images-assets.nasa.gov/image/art002e009289/art002e009289~large.jpg)
 
 [https://e4ftl01.cr.usgs.gov/WORKING/BRWS/Browse.001/2026.04.07/pg-BR1A0000-2026040701_001_025.1.VNIR.jpg](https://e4ftl01.cr.usgs.gov/WORKING/BRWS/Browse.001/2026.04.07/pg-BR1A0000-2026040701_001_025.1.VNIR.jpg) ![https://e4ftl01.cr.usgs.gov/WORKING/BRWS/Browse.001/2026.04.07/pg-BR1A0000-2026040701_001_025.1.VNIR.jpg](https://e4ftl01.cr.usgs.gov/WORKING/BRWS/Browse.001/2026.04.07/pg-BR1A0000-2026040701_001_025.1.VNIR.jpg)
 

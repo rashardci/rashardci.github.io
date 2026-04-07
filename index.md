@@ -21,6 +21,9 @@ mermaid: true
 ## Rashard Kelly 
 MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/) . . . @ucla hi from [Remote @Nasa-JPL](https://holetoanotheruniverse40.github.io/compiling/) 
 
+
+[https://e4ftl01.cr.usgs.gov/WORKING/BRWS/Browse.001/2026.04.07/pg-BR1A0000-2026040701_001_025.1.VNIR.jpg](https://e4ftl01.cr.usgs.gov/WORKING/BRWS/Browse.001/2026.04.07/pg-BR1A0000-2026040701_001_025.1.VNIR.jpg) ![https://e4ftl01.cr.usgs.gov/WORKING/BRWS/Browse.001/2026.04.07/pg-BR1A0000-2026040701_001_025.1.VNIR.jpg](https://e4ftl01.cr.usgs.gov/WORKING/BRWS/Browse.001/2026.04.07/pg-BR1A0000-2026040701_001_025.1.VNIR.jpg)
+
 <img  alt="image" src="https://github.com/user-attachments/assets/a12ea928-dd06-4a65-8c6e-7bff0bb9d494" />
 <img  alt="image" src="https://github.com/user-attachments/assets/279e2459-ca5e-4690-b55d-65e0f015bb06" />
 
